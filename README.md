@@ -14,3 +14,4 @@ part 2 - тетрадка с подготовкой 2-го датасета, п�
 
 Модель rubert_base: https://drive.google.com/drive/folders/1tOpy3rfdKkYTSKAmeQcJ1ba7rJvgvvjZ?usp=sharing
 
+analysis - тетрадка с анализом соответствия эмоций глагольным формам, знакам препинания в предложении.
