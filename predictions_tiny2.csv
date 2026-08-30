@@ -1,0 +1,5135 @@
+Реплика;Эмоция;pred_tiny2
+Злорадствуй.;anger;anger
+Она предвкушала.;joy;joy
+Она не хихикала.;sadness;anger
+Она торжествовала.;joy;joy
+Цвети?;joy;surprise
+Забеспокойся?;fear;anger
+Она невзлюбила!;anger;anger
+Она не восхищалась!;anger;joy
+Возрадуйся.;joy;anger
+Она не устрашалась!;fear;anger
+Она взъярилась?;anger;surprise
+Поразись.;surprise;anger
+Конфузься?;fear;surprise
+Она обалдела.;surprise;joy
+Не переживай!;joy;sadness
+Повеселей?;joy;surprise
+Она сердилась?;anger;anger
+Процветай.;joy;joy
+Она не устрашила?;fear;surprise
+Умайся?;surprise;surprise
+Прогневайся.;anger;anger
+Она повеселела?;joy;joy
+Не восхищай.;joy;joy
+Она не злила?;surprise;anger
+Она терроризировала?;anger;anger
+Не изведись!;anger;anger
+Она не отчаивалась!;anger;sadness
+Не утоми!;anger;sadness
+Скисай.;anger;joy
+Она не болела?;surprise;sadness
+Надуйся.;anger;anger
+Она взбадривалась.;joy;anger
+Она запугала?;surprise;fear
+Конфузься!;fear;anger
+Не дрожи?;surprise;anger
+Не уважай!;anger;anger
+Она не конфузилась?;surprise;surprise
+Не улыбайся?;sadness;joy
+Удовлетворяй.;joy;joy
+Сердись?;surprise;surprise
+Страдай!;anger;fear
+Не плачь?;anger;sadness
+Не точи?;surprise;surprise
+Она не запугала!;anger;anger
+Она погоревала.;sadness;sadness
+Она не напугала!;anger;fear
+Не поникни!;joy;anger
+Она не покаялась?;surprise;surprise
+Она истерзалась.;fear;anger
+Не расстройся!;joy;anger
+Она скисала?;surprise;surprise
+Она не убивалась?;anger;anger
+Она леденела?;fear;surprise
+Она маялась.;sadness;sadness
+Не вытерпи?;anger;anger
+Она терзалась?;anger;anger
+Погрусти.;sadness;anger
+Она невзлюбила.;anger;sadness
+Она опупела?;anger;fear
+Она не разгневалась.;joy;anger
+Она не гордилась.;sadness;joy
+Не поволнуйся.;joy;anger
+Не опьяней?;anger;anger
+Она не боялась?;surprise;fear
+Не устрашайся!;anger;anger
+Она не разревелась.;surprise;anger
+Не озлобь.;fear;anger
+Не обидь?;surprise;anger
+Она терроризировала!;fear;anger
+Не заинтересуй!;anger;surprise
+Она не скучала!;sadness;sadness
+Не изнемогай!;anger;anger
+Не восхищай!;anger;joy
+Она не страшила?;surprise;fear
+Не убивай?;anger;anger
+Не обалдевай.;anger;joy
+Освежись.;joy;surprise
+Она не приободрилась!;anger;anger
+Она не удовлетворялась!;anger;anger
+Она потрясла?;surprise;surprise
+Прослезись?;surprise;anger
+Она смела?;anger;anger
+Не покайся!;anger;joy
+Огорчи.;sadness;surprise
+Взбадривайся.;joy;anger
+Она не возрыдала?;anger;surprise
+Бойся!;fear;anger
+Упейся!;anger;anger
+Не изведись?;surprise;surprise
+Она не изнуряла.;joy;sadness
+Она переволновалась.;fear;sadness
+Она вдохновлялась!;joy;joy
+Она изнывала!;sadness;surprise
+Она не привязывалась.;sadness;anger
+Соскучься.;sadness;anger
+Она истосковалась?;sadness;surprise
+Не насыться.;joy;anger
+Она свирепела?;surprise;surprise
+Возмущайся!;anger;anger
+Беси?;surprise;anger
+Не расстраивайся.;joy;anger
+Не возвеселись?;surprise;surprise
+Она убоялась?;fear;anger
+Она удовлетворилась?;joy;surprise
+Грусти!;sadness;sadness
+Не торжествуй?;surprise;surprise
+Она не переутомила!;anger;anger
+Она не погрустнела!;joy;sadness
+Не переволнуйся?;surprise;anger
+Она понервничала.;fear;sadness
+Не томись?;surprise;surprise
+Не обозли!;anger;anger
+Изной?;sadness;surprise
+Она удовлетворяла.;joy;joy
+Не бесись?;anger;anger
+Она не осознавала?;surprise;surprise
+Она поверила?;surprise;surprise
+Она удовлетворилась.;joy;sadness
+Она переболела.;sadness;sadness
+Она не балдела!;surprise;anger
+Не балдей?;anger;anger
+Не ужасай!;anger;fear
+Не балдей!;anger;joy
+Не труси?;surprise;anger
+Она истомилась?;surprise;surprise
+Она не дулась!;anger;anger
+Измотайся?;anger;surprise
+Она вспылила.;anger;anger
+Она не недолюбливала.;joy;anger
+Окрылись!;joy;anger
+Она не позлилась.;joy;sadness
+Она не стеснялась?;surprise;surprise
+Не взбеси.;anger;anger
+Не рассерди?;surprise;anger
+Утомляй.;sadness;anger
+Не гневи.;anger;anger
+Изумись?;surprise;surprise
+Она терпела.;fear;sadness
+Замучься?;anger;surprise
+Стыдись!;fear;anger
+Она не измучилась!;anger;sadness
+Расстрой.;sadness;anger
+Она измучилась!;fear;sadness
+Она не утомлялась?;surprise;sadness
+Она домучилась?;anger;surprise
+Не насыщайся?;anger;anger
+Разгневай!;anger;anger
+Она томилась.;sadness;sadness
+Она не затосковала!;anger;anger
+Не смутись.;joy;sadness
+Измотайся.;sadness;surprise
+Она не переутомляла!;joy;anger
+Ошеломи!;surprise;surprise
+Она изматывала!;anger;anger
+Она не помрачала?;surprise;anger
+Она упивалась.;anger;anger
+Она травмировала!;anger;sadness
+Она подступала!;fear;surprise
+Она мечтала.;joy;joy
+Домучься.;sadness;anger
+Надоедай.;sadness;anger
+Она взорвала.;anger;fear
+Она не сломилась.;joy;sadness
+Не восторгай.;sadness;joy
+Она изнервничалась?;surprise;surprise
+Не позлорадствуй?;anger;anger
+Освежай?;joy;surprise
+Взорви.;anger;anger
+Раздражись!;anger;anger
+Разочаруй?;surprise;anger
+Она не подосадовала!;joy;anger
+Не смей!;anger;anger
+Переболей?;surprise;anger
+Не тревожься!;joy;fear
+Не обалдей.;anger;joy
+Не рассвирепей!;anger;anger
+Она пела?;surprise;surprise
+Встревожь?;surprise;surprise
+Сохни.;anger;anger
+Не вытерпи.;anger;anger
+Она не возвеселилась!;anger;anger
+Она отчаивалась!;joy;sadness
+Она не скисла!;joy;anger
+Не понравься?;surprise;surprise
+Она раздражала?;surprise;anger
+Струхни.;fear;anger
+Она не смела.;anger;anger
+Ослепи?;anger;surprise
+Не наслаждайся?;surprise;joy
+Она воспрянула.;joy;anger
+Она ужасала.;fear;fear
+Не надивись!;joy;anger
+Не сломись.;joy;anger
+Не повеселись?;surprise;joy
+Она огорчила!;sadness;sadness
+Она не удивлялась?;surprise;surprise
+Не опостылей.;anger;anger
+Она услаждалась!;joy;joy
+Наслаждайся.;joy;joy
+Она поразила?;surprise;surprise
+Она спугивала!;fear;anger
+Она возрадовалась!;joy;anger
+Не льсти?;surprise;anger
+Убивай?;anger;anger
+Не скучай?;surprise;sadness
+Она развлекала?;surprise;joy
+Растревоживай.;fear;sadness
+Разнервничайся.;fear;sadness
+Не серчай!;joy;anger
+Ужасай!;fear;fear
+Гневи.;anger;anger
+Она не ободрялась!;sadness;anger
+Она не взорвалась?;surprise;surprise
+Она не сломилась?;surprise;anger
+Не воспрянь?;surprise;anger
+Она настрадалась!;sadness;joy
+Не содрогайся!;anger;anger
+Не разревись.;anger;anger
+Она не угрюмела?;surprise;anger
+Она не удовольствовалась!;sadness;joy
+Она не разочаровала?;surprise;sadness
+Она развлекла!;joy;joy
+Она не унывала?;surprise;sadness
+Она взорвала!;joy;surprise
+Она не тушевалась!;joy;anger
+Застращай?;surprise;anger
+Измотай!;fear;surprise
+Она вспылила?;surprise;surprise
+Она не поникла!;joy;anger
+Жалей?;sadness;sadness
+Ликуй!;joy;anger
+Не потоскуй?;surprise;anger
+Она казнилась?;surprise;anger
+Она надулась.;sadness;surprise
+Она страшилась?;surprise;fear
+Изнывай.;sadness;anger
+Она пуганула?;fear;fear
+Огорчайся.;sadness;surprise
+Она не опасалась?;surprise;fear
+Позлорадствуй!;anger;anger
+Раздосадуй.;sadness;anger
+Не скисни?;surprise;surprise
+Она не затравила.;joy;surprise
+Порадуйся!;joy;joy
+Она не досадовала?;surprise;anger
+Омрачись?;surprise;surprise
+Раздразни!;anger;anger
+Она не угрожала!;surprise;fear
+Обожай.;joy;joy
+Она расцвела?;joy;surprise
+Раздразнивай.;anger;anger
+Она не опечалила.;joy;sadness
+Не взорвись.;anger;anger
+Трепещи!;fear;anger
+Она запугала.;fear;fear
+Не прогневай.;anger;anger
+Она не паниковала?;surprise;anger
+Сдрейфи!;anger;anger
+Она повеселела.;joy;joy
+Она озлобляла.;anger;anger
+Она сникала.;sadness;sadness
+Она злобствовала.;anger;anger
+Удручай!;sadness;joy
+Не возмущайся?;anger;anger
+Она не убоялась?;surprise;anger
+Возвеселись.;joy;joy
+Не раздражи?;anger;anger
+Не растревожь?;surprise;anger
+Изнемогай!;sadness;anger
+Не удивись?;surprise;surprise
+Она не восхитилась!;anger;joy
+Измучься?;anger;surprise
+Она утомляла.;sadness;sadness
+Казнись!;anger;anger
+Она приободрилась!;joy;joy
+Напугайся.;fear;anger
+Она сконфузилась!;fear;sadness
+Она взбеленилась.;anger;anger
+Она приунывала!;sadness;anger
+Сторонись.;fear;anger
+Она не недолюбливала?;surprise;anger
+Она поощряла!;joy;joy
+Не дивись?;surprise;surprise
+Она тушевалась.;fear;sadness
+Устрашайся.;fear;anger
+Она не поражалась?;surprise;surprise
+Она воскресала!;joy;joy
+Дрейфи?;surprise;surprise
+Она обидела!;sadness;anger
+Не недолюбливай?;surprise;anger
+Она не услаждалась.;sadness;sadness
+Освежи?;surprise;surprise
+Она не озлила?;fear;surprise
+Она забеспокоилась?;surprise;anger
+Не поднимай?;surprise;surprise
+Обрадуй?;joy;surprise
+Разозлись!;anger;anger
+Беспокойся?;fear;sadness
+Не осердись?;surprise;anger
+Она мучила?;sadness;anger
+Убивай.;anger;anger
+Она не веселила!;sadness;joy
+Развесели!;joy;anger
+Настрадайся?;surprise;surprise
+Она не сломила?;surprise;anger
+Заинтересуй.;joy;surprise
+Она печалилась.;sadness;sadness
+Она не удовольствовалась?;sadness;joy
+Горюй?;sadness;surprise
+Она встряхивалась!;joy;joy
+Она погрустила?;surprise;surprise
+Не стоскуйся.;joy;anger
+Она раздражилась!;anger;anger
+Она разволновала.;fear;anger
+Она туманилась?;surprise;surprise
+Не ужасай?;surprise;fear
+Она приунывала.;sadness;sadness
+Возмути?;surprise;surprise
+Не опасайся.;joy;fear
+Она не помрачала.;joy;sadness
+Она не озлобила.;joy;anger
+Она заледенела?;surprise;surprise
+Она не убивалась!;anger;anger
+Она не испугалась?;surprise;fear
+Изматывайся!;sadness;anger
+Она утомляла!;anger;sadness
+Она повредила?;surprise;surprise
+Устрашись!;fear;anger
+Она торжествовала!;joy;joy
+Она не удовлетворялась.;sadness;sadness
+Она не загрустила.;joy;sadness
+Она не хандрила.;joy;anger
+Не поощряй?;surprise;anger
+Она окрылила?;surprise;surprise
+Она раздосадовалась!;sadness;joy
+Она не повеселилась.;sadness;joy
+Обожгись!;anger;joy
+Она не изнывала?;surprise;surprise
+Услаждайся!;joy;joy
+Плачь!;sadness;sadness
+Измотай.;anger;surprise
+Она гордилась!;joy;joy
+Она не переутомляла?;surprise;surprise
+Взвой?;sadness;anger
+Она обмерла.;fear;sadness
+Взъярись!;anger;anger
+Не погневайся.;fear;anger
+Не побаивайся!;joy;anger
+Дивись!;joy;joy
+Не замучься?;surprise;anger
+Не раздражайся.;anger;anger
+Волнуйся!;fear;anger
+Опечаливай?;surprise;surprise
+Удивись.;surprise;surprise
+Возмущай.;anger;anger
+Она не исстрадалась?;anger;surprise
+Она не ранила?;surprise;anger
+Гневайся?;surprise;surprise
+Проплачь?;surprise;anger
+Перепугайся!;fear;anger
+Она не тужила?;surprise;surprise
+Вытерпи!;joy;anger
+Не упивайся?;surprise;anger
+Не загрусти!;joy;anger
+Она не огорчала.;joy;sadness
+Она балдела!;joy;joy
+Рыдай!;sadness;joy
+Досадуй.;sadness;anger
+Она не повредила?;surprise;surprise
+Она не устрашила!;joy;anger
+Она не опьянела?;surprise;sadness
+Утомляйся!;sadness;anger
+Раздави?;surprise;surprise
+Посмеивайся?;joy;joy
+Не воспрянь!;anger;anger
+Она скисла?;surprise;surprise
+Не взбадривайся?;sadness;anger
+Она истомилась!;sadness;sadness
+Она балдела?;surprise;surprise
+Не подбодрись!;sadness;anger
+Не стращай!;anger;anger
+Угрюмей?;sadness;fear
+Она скорбела.;sadness;sadness
+Она волновалась!;fear;fear
+Пригорюнься.;sadness;joy
+Не подшучивай!;anger;anger
+Она не услаждалась?;surprise;surprise
+Она разнервничалась!;fear;sadness
+Она натерпелась!;anger;anger
+Она привязывалась!;sadness;anger
+Поражайся!;surprise;joy
+Она не взбеленила?;surprise;anger
+Поникни.;sadness;anger
+Она изныла?;anger;surprise
+Она позлилась!;anger;surprise
+Не струхни?;surprise;anger
+Стращай?;surprise;fear
+Не погорюй.;joy;sadness
+Разревись.;sadness;anger
+Она восхищалась!;joy;joy
+Она мучила!;sadness;anger
+Топай!;anger;joy
+Не гнети!;joy;anger
+Разочаруйся!;sadness;anger
+Удивись?;surprise;surprise
+Она не печалилась.;joy;sadness
+Она не горевала!;joy;sadness
+Не расстройся?;surprise;surprise
+Она не терзалась!;joy;anger
+Стесняйся!;fear;anger
+Не утоми.;anger;sadness
+Не рассмейся!;sadness;joy
+Не сломи!;joy;anger
+Хандри!;anger;joy
+Она смущала!;fear;anger
+Не освещай!;anger;joy
+Она опасалась?;surprise;fear
+Омрачи!;sadness;anger
+Она не веселила.;sadness;joy
+Она не доставала?;surprise;surprise
+Обеспокой?;fear;anger
+Она сломилась?;surprise;anger
+Возрадуйся!;joy;anger
+Не стыдись!;joy;anger
+Плачь.;sadness;sadness
+Испугайся?;fear;anger
+Не раздосадуйся!;joy;joy
+Не исстрадайся!;anger;anger
+Она заволновалась!;fear;anger
+Обожгись.;anger;joy
+Она не наскучила!;anger;anger
+Вытерпи?;surprise;anger
+Она взорвалась?;fear;surprise
+Она проклинала?;anger;anger
+Она не омрачалась!;fear;sadness
+Раздражись?;anger;anger
+Посмейся.;joy;sadness
+Она устыдилась.;fear;sadness
+Не взвой?;surprise;anger
+Она озлобила.;anger;anger
+Она спугивала?;surprise;surprise
+Она не разнервничалась?;surprise;surprise
+Она переутомляла.;sadness;sadness
+Она тревожила!;fear;fear
+Не грусти?;sadness;sadness
+Не презирай!;anger;anger
+Она не изумила?;surprise;surprise
+Она поражалась.;surprise;surprise
+Не обалдей!;anger;joy
+Она блаженствовала.;joy;joy
+Она не посетовала!;surprise;surprise
+Она не опечалилась!;joy;sadness
+Не закручинься.;joy;anger
+Не разочаруйся?;anger;anger
+Она не взбеленилась?;fear;anger
+Не надоедай?;surprise;anger
+Утоми.;sadness;surprise
+Она изматывалась?;sadness;surprise
+Она понравилась!;joy;joy
+Она надоедала!;anger;sadness
+Она омрачила?;surprise;sadness
+Не стервеней?;anger;anger
+Она не свирепела.;joy;sadness
+Не обалдевай!;anger;joy
+Не ненавидь.;joy;anger
+Не удручай!;sadness;sadness
+Она не запугивала?;surprise;anger
+Она сконфузилась.;fear;sadness
+Не прослезись!;joy;anger
+Она погрустнела.;sadness;sadness
+Она переволновалась?;surprise;surprise
+Она порадовала.;joy;joy
+Она не изнемогала!;anger;anger
+Она удивила!;surprise;surprise
+Она конфузилась!;fear;anger
+Запугивай!;fear;anger
+Она не сокрушила!;joy;anger
+Расцвети.;joy;joy
+Она оплакала.;sadness;sadness
+Насыться.;joy;joy
+Она подбодрилась.;joy;anger
+Изумляй.;surprise;joy
+Не перепугайся!;joy;anger
+Светись.;joy;joy
+Пошути!;joy;anger
+Она не расстраивалась!;joy;sadness
+Погрустней!;sadness;anger
+Она нервничала!;fear;fear
+Она не цвела.;sadness;anger
+Обожгись?;surprise;surprise
+Она сердила!;anger;anger
+Она не обидела?;surprise;anger
+Она не оплакивала!;anger;sadness
+Ужаснись.;fear;fear
+Она не ужаснулась!;joy;fear
+Она восторгалась!;joy;joy
+Она не надеялась?;surprise;surprise
+Она не расцветала!;sadness;surprise
+Она не светилась!;sadness;surprise
+Она не забеспокоилась!;joy;anger
+Выстрадай.;sadness;anger
+Не угрюмей.;joy;anger
+Не томись!;joy;anger
+Она порадовалась?;joy;joy
+Не мучь.;sadness;anger
+Она смеялась.;joy;joy
+Она удовлетворяла!;joy;joy
+Она досадовала.;sadness;sadness
+Не хлебни?;surprise;anger
+Воспрянь.;joy;anger
+Не остолбеней?;surprise;anger
+Она не загоревала?;surprise;surprise
+Она не измаялась?;surprise;surprise
+Она не радовалась?;sadness;joy
+Не упейся?;anger;anger
+Любуйся!;joy;joy
+Она осточертела!;anger;anger
+Упейся?;surprise;surprise
+Беси.;anger;anger
+Приободряйся!;joy;joy
+Она не кручинилась.;joy;sadness
+Сокрушайся.;sadness;anger
+Трясись.;fear;anger
+Она наслаждалась?;joy;joy
+Не изводись?;sadness;surprise
+Она домучилась!;sadness;joy
+Не вымотай.;sadness;anger
+Не разъяри!;fear;anger
+Она не подавляла!;anger;anger
+Не цвети.;sadness;anger
+Не озли?;anger;surprise
+Гневи!;anger;anger
+Предвкушай.;joy;anger
+Она не захватывала?;surprise;surprise
+Светись!;joy;joy
+Она изнемогла.;sadness;sadness
+Она не обиделась?;surprise;anger
+Она растревожила!;fear;anger
+Она не раздражала!;joy;anger
+Она не понервничала?;surprise;anger
+Не вознегодуй!;anger;anger
+Не шантажируй!;anger;anger
+Она не приунывала!;joy;anger
+Не убей.;anger;anger
+Не травмируй!;anger;anger
+Она расстраивалась!;sadness;fear
+Она возмущала.;anger;anger
+Она испугалась?;surprise;fear
+Она возмутилась!;anger;anger
+Она опечаливала?;surprise;surprise
+Она не встревожилась?;surprise;fear
+Она погрустнела?;surprise;surprise
+Поволнуйся.;fear;anger
+Замучивайся?;surprise;surprise
+Она не отпугивала.;joy;fear
+Не беси!;anger;anger
+Рассвирепей?;anger;anger
+Она не сконфузилась!;surprise;sadness
+Не удовлетворись.;sadness;sadness
+Она не конфузилась.;joy;anger
+Она не просияла!;anger;anger
+Она не прискучивала.;joy;sadness
+Она тяготила.;sadness;sadness
+Она не балдела.;sadness;anger
+Изумляй?;surprise;surprise
+Она не вознегодовала!;anger;anger
+Она не страшилась?;surprise;fear
+Она не топала!;anger;anger
+Она не поражала.;sadness;surprise
+Не проклинай?;surprise;anger
+Убойся.;sadness;anger
+Она помучилась?;anger;sadness
+Она переживала?;surprise;sadness
+Она злилась?;fear;anger
+Обозлись?;anger;surprise
+Она не смеялась!;anger;joy
+Возмущайся.;sadness;sadness
+Она развлекалась.;joy;joy
+Она не терпела!;anger;sadness
+Веселись.;joy;joy
+Она не повеселела.;sadness;joy
+Она не ободрилась.;sadness;sadness
+Она перевернула!;joy;anger
+Она не настрадалась.;anger;anger
+Она не унывала!;joy;sadness
+Она не надеялась!;sadness;joy
+Она не разволновала!;joy;anger
+Не измучься?;surprise;anger
+Не заскучай!;joy;anger
+Она не печалилась!;joy;sadness
+Не презирай?;surprise;anger
+Не блаженствуй.;sadness;joy
+Она не нервничала?;surprise;fear
+Кручинься?;surprise;surprise
+Насмехайся.;anger;anger
+Раздразни?;surprise;anger
+Она не гневила!;surprise;anger
+Раздражай!;anger;anger
+Нервничай.;surprise;anger
+Она не промаялась?;surprise;surprise
+Она не утомляла.;joy;sadness
+Она переволновалась!;joy;anger
+Она разволновала!;joy;anger
+Не вдохновляйся?;surprise;surprise
+Изнури?;surprise;surprise
+Пьяней?;surprise;sadness
+Не надейся?;sadness;surprise
+Обалдей!;surprise;joy
+Она не сердилась.;joy;anger
+Не захандри!;joy;anger
+Не раздразни!;joy;anger
+Она не обидела.;joy;anger
+Освежайся!;joy;surprise
+Она бесилась!;anger;anger
+Рыдай.;sadness;anger
+Сердись!;anger;joy
+Не обомри?;surprise;surprise
+Она не обожглась!;joy;joy
+Взорви?;surprise;anger
+Она освежала.;joy;joy
+Расстройся!;sadness;anger
+Она не загрустила?;surprise;surprise
+Она не разобиделась.;joy;sadness
+Не замучься!;anger;anger
+Не развлекайся!;sadness;joy
+Не побойся.;joy;anger
+Ошеломи.;surprise;surprise
+Она не прогневалась!;joy;anger
+Не обрадуй.;sadness;joy
+Не наскучивай!;joy;anger
+Она гневила!;anger;anger
+Она не вымотала.;joy;anger
+Не выматывай?;surprise;anger
+Она не устрашилась?;surprise;surprise
+Не оплачь.;joy;anger
+Не фыркай?;surprise;anger
+Переутомляй!;joy;anger
+Насыться!;joy;joy
+Истоскуйся.;sadness;joy
+Не поволнуйся?;surprise;anger
+Она не посмеивалась.;sadness;joy
+Она огорчалась?;sadness;sadness
+Окрылись?;surprise;surprise
+Она не сторонилась!;joy;anger
+Не негодуй?;anger;surprise
+Она не серчала?;fear;anger
+Она не презирала!;joy;anger
+Не раздосадуй!;anger;anger
+Скорби?;sadness;sadness
+Она порадовалась.;joy;joy
+Обозлись!;anger;joy
+Поплачь?;sadness;surprise
+Не соскучься.;joy;sadness
+Она не надоела?;anger;anger
+Она не серчала!;joy;anger
+Она омрачалась?;sadness;sadness
+Она дрожала?;fear;anger
+Она натерпелась?;surprise;surprise
+Развеселись?;joy;surprise
+Она растревожила?;surprise;anger
+Не устрашай.;sadness;anger
+Надуйся!;anger;anger
+Не проплачь?;surprise;anger
+Рассерди!;anger;anger
+Не угрожай.;anger;fear
+Утомляй!;anger;anger
+Исстрадайся!;sadness;anger
+Томись.;anger;sadness
+Льсти?;surprise;anger
+Она не удивилась!;anger;surprise
+Она не измочалила!;anger;anger
+Не насыться!;anger;anger
+Не бойся.;joy;anger
+Она обмирала!;sadness;anger
+Она не беспокоилась!;anger;fear
+Она не никла?;surprise;surprise
+Она затосковала?;sadness;surprise
+Она злила!;anger;anger
+Она не травмировала?;surprise;sadness
+Она невзлюбила?;surprise;anger
+Подавляй?;surprise;anger
+Измучься!;anger;anger
+Она не пугнула?;surprise;anger
+Не труси.;anger;anger
+Она изматывалась.;sadness;anger
+Не измотайся.;anger;surprise
+Не восторгайся.;sadness;joy
+Не дрейфи.;joy;anger
+Не исстрадайся.;joy;anger
+Не заскучай?;surprise;surprise
+Она воспрянула!;joy;anger
+Домучься!;sadness;joy
+Она возрадовалась.;joy;anger
+Развлекайся?;surprise;surprise
+Погневайся.;anger;anger
+Она сокрушалась?;surprise;anger
+Она страшилась.;fear;fear
+Она не злилась?;surprise;anger
+Она не обожглась?;fear;joy
+Не смущайся!;joy;anger
+Она опупела.;surprise;sadness
+Она не воскресала!;surprise;sadness
+Она не удивилась?;surprise;surprise
+Приунывай!;sadness;anger
+Она заинтересовала!;joy;surprise
+Она отчаивалась.;sadness;sadness
+Не достань!;anger;anger
+Не процветай?;surprise;surprise
+Удовлетворяйся!;joy;joy
+Заледеней?;surprise;surprise
+Она ужасала?;fear;fear
+Она обиделась?;sadness;anger
+Повеселись!;joy;joy
+Она нарадовалась?;joy;anger
+Она не вдохновлялась?;sadness;surprise
+Она уважала!;joy;joy
+Она любовалась.;joy;joy
+Поволнуйся?;fear;anger
+Разволнуй.;fear;anger
+Она злобствовала?;anger;anger
+Не серди?;anger;anger
+Сожалей?;surprise;surprise
+Не порази?;surprise;surprise
+Не мучься?;sadness;anger
+Она печалила.;sadness;sadness
+Она не забоялась?;surprise;anger
+Не радуй.;sadness;joy
+Растревожь!;fear;anger
+Гнети?;surprise;surprise
+Она опостылела.;anger;sadness
+Она не развеселилась?;sadness;surprise
+Она злила?;anger;anger
+Не удивляй?;surprise;surprise
+Не терзайся!;joy;anger
+Не ликуй.;sadness;joy
+Не насыщайся!;sadness;anger
+Услаждайся.;joy;joy
+Она сердила.;anger;anger
+Она расстраивалась.;sadness;fear
+Расстрой?;sadness;surprise
+Она беспокоила.;fear;fear
+Она не конфузилась!;joy;anger
+Надейся?;sadness;surprise
+Не пугни!;fear;anger
+Она пошутила.;joy;joy
+Не пошути.;sadness;anger
+Она разнервничалась?;surprise;surprise
+Она не невзлюбила.;anger;sadness
+Заволнуйся?;fear;anger
+Не озлобь?;surprise;anger
+Балдей!;joy;joy
+Она не возмутила!;anger;anger
+Она не возликовала?;surprise;surprise
+Заволнуйся.;fear;anger
+Она нервничала?;surprise;fear
+Она не ранила!;anger;anger
+Она обалдевала.;joy;joy
+Она не помучилась?;sadness;surprise
+Она дивила.;surprise;anger
+Угрожай?;anger;fear
+Она не запугивала!;anger;anger
+Она не любовалась?;sadness;surprise
+Не позли!;anger;anger
+Умайся!;anger;anger
+Осердись.;anger;surprise
+Побаивайся!;fear;joy
+Не обозлись.;fear;anger
+Не скисай.;joy;anger
+Она утомила!;anger;sadness
+Она ослепила!;joy;sadness
+Она изматывала?;surprise;surprise
+Она интересовалась?;surprise;surprise
+Она гневила?;anger;anger
+Не погневайся?;fear;anger
+Рассерчай.;anger;anger
+Она повеселилась.;joy;joy
+Не шантажируй.;anger;anger
+Не пьяней?;surprise;anger
+Пугани.;fear;fear
+Изнури.;sadness;anger
+Она не бесила?;anger;anger
+Она огорчала.;sadness;sadness
+Подавляй.;anger;anger
+Взвой.;sadness;anger
+Не устрашись!;joy;anger
+Она не удручила.;joy;sadness
+Опупей.;fear;anger
+Надуйся?;sadness;surprise
+Хмурься.;sadness;anger
+Развлеки!;joy;anger
+Не возмутись?;surprise;anger
+Она грустила.;sadness;sadness
+Не посмеивайся.;sadness;joy
+Она печалила!;sadness;sadness
+Она ободрялась.;joy;anger
+Она не окрылилась?;surprise;surprise
+Она раздражалась.;anger;anger
+Не сдрейфи?;surprise;anger
+Она не извелась!;anger;surprise
+Угрюмей.;sadness;fear
+Трясись!;fear;anger
+Не приободрись.;sadness;anger
+Она не раздосадовалась!;joy;anger
+Не перетревожь!;anger;anger
+Не опечаль!;joy;anger
+Воскресни!;joy;anger
+Не обижайся?;anger;anger
+Ободрись!;joy;joy
+Она оживила?;surprise;surprise
+Она не развеселилась!;sadness;anger
+Она освежалась.;joy;joy
+Она веселилась!;joy;joy
+Она не наскучивала!;joy;anger
+Она утомилась.;sadness;sadness
+Измайся!;sadness;surprise
+Сожалей!;sadness;anger
+Не загрусти.;joy;anger
+Она не омрачила?;surprise;sadness
+Не смутись!;joy;surprise
+Она не томилась.;joy;sadness
+Поражайся?;surprise;surprise
+Она не повеселела?;sadness;joy
+Она просияла!;joy;sadness
+Не невзлюби?;surprise;anger
+Не понравься.;sadness;joy
+Недоумевай!;anger;anger
+Майся.;sadness;sadness
+Недолюбливай!;anger;anger
+Она не развеселила!;sadness;anger
+Удивляй!;surprise;surprise
+Ободряйся!;joy;anger
+Она удручала?;surprise;surprise
+Она прогневалась?;anger;anger
+Диви!;surprise;joy
+Не изматывайся!;joy;anger
+Она изумила!;surprise;joy
+Не ужасайся?;surprise;fear
+Не рассмеши?;surprise;joy
+Она взбеленила?;surprise;anger
+Восхитись!;joy;anger
+Перетрусь.;fear;sadness
+Она не измучилась?;surprise;sadness
+Смейся.;joy;joy
+Она осердилась.;anger;sadness
+Вдохновляйся!;joy;joy
+Она измаялась?;sadness;surprise
+Она озлоблялась.;anger;anger
+Она хватила?;surprise;anger
+Она не удовольствовалась.;sadness;joy
+Она не страдала?;surprise;sadness
+Она повеселела!;joy;joy
+Она не возликовала.;sadness;anger
+Потрясай!;surprise;joy
+Она терзалась.;sadness;anger
+Дивись?;surprise;surprise
+Она не окрылила.;sadness;anger
+Не удручи!;anger;sadness
+Она озлила?;anger;surprise
+Она не пошутила?;surprise;surprise
+Она сокрушила?;surprise;anger
+Потряси!;surprise;surprise
+Не прискучивай!;anger;anger
+Обозли!;anger;joy
+Она встряхнулась?;surprise;surprise
+Скисни!;sadness;joy
+Обидься?;sadness;anger
+Окрыли.;joy;anger
+Она заволновалась?;fear;anger
+Не нарадуйся.;joy;anger
+Она не встряхнулась?;surprise;surprise
+Не сконфузься?;surprise;anger
+Она огорчала?;sadness;sadness
+Поражай?;surprise;surprise
+Она тряслась.;fear;fear
+Она не позабавилась.;sadness;sadness
+Приободрись?;surprise;surprise
+Подбодрись.;joy;anger
+Она рыдала.;sadness;sadness
+Не недолюбливай!;anger;anger
+Она пригорюнилась!;sadness;joy
+Покайся!;anger;joy
+Она не маялась.;sadness;sadness
+Не восхищайся?;surprise;surprise
+Она ужасалась!;fear;fear
+Развесели.;joy;anger
+Не помрачись!;joy;anger
+Не натерпись!;joy;anger
+Не печалься!;joy;sadness
+Она не возрыдала!;joy;anger
+Она волновалась.;fear;fear
+Она обиделась.;sadness;anger
+Она перенервничала?;fear;anger
+Не разобидься?;surprise;anger
+Она освежала!;joy;joy
+Она взволновала.;fear;surprise
+Она не никла!;joy;anger
+Она не насыщалась?;surprise;surprise
+Она тревожила.;fear;fear
+Она осерчала?;anger;surprise
+Она устрашала!;fear;anger
+Она озлоблялась?;anger;anger
+Она умаяла!;sadness;surprise
+Захандри?;sadness;surprise
+Обеспокойся!;fear;anger
+Не умаивай.;anger;anger
+Не раздражись!;fear;anger
+Не удручи.;joy;sadness
+Она прослезилась?;sadness;surprise
+Она жгла.;joy;anger
+Испугай?;surprise;surprise
+Не затрави!;anger;anger
+Она изныла!;sadness;surprise
+Она тревожила?;fear;fear
+Она не терроризировала!;anger;anger
+Не хвати!;anger;anger
+Отпугивай.;fear;anger
+Она прогневала.;anger;anger
+Выстрадай!;sadness;anger
+Она дулась.;sadness;anger
+Бесись!;anger;anger
+Она возликовала.;joy;anger
+Не зли!;fear;anger
+Ужасайся?;fear;fear
+Она ненавидела.;anger;anger
+Не намучься?;surprise;surprise
+Она не привязывалась?;surprise;surprise
+Она развлеклась.;joy;joy
+Она не восхищалась.;sadness;joy
+Она измочаливала?;sadness;surprise
+Она терпела!;anger;sadness
+Она не забоялась.;joy;anger
+Она закручинилась!;sadness;anger
+Она не заледенела?;surprise;surprise
+Удивляйся?;surprise;surprise
+Она наслаждалась.;joy;joy
+Не возрыдай.;joy;anger
+Она возмущала!;anger;anger
+Не раздражай.;anger;anger
+Она не сохла?;surprise;anger
+Она сожалела.;sadness;sadness
+Возненавидь.;anger;anger
+Не терроризируй!;anger;anger
+Огорчайся!;sadness;surprise
+Она не ободрялась.;sadness;anger
+Не плачь!;joy;sadness
+Посмеивайся.;joy;joy
+Она не вдохновлялась.;sadness;surprise
+Разревись?;sadness;anger
+Она озлобилась!;anger;anger
+Она озлилась.;sadness;sadness
+Она встревожила.;fear;fear
+Не прогневай?;surprise;anger
+Она не светилась.;sadness;sadness
+Она помрачала!;sadness;joy
+Умайся.;sadness;anger
+Она злобствовала!;anger;anger
+Не разъяри.;fear;anger
+Восторгайся!;joy;joy
+Она не помрачилась.;joy;sadness
+Она надоедала?;anger;sadness
+Возрыдай?;sadness;surprise
+Гнети!;anger;anger
+Она удовлетворилась!;joy;joy
+Она гордилась.;joy;joy
+Изумись.;joy;joy
+Она не ликовала?;sadness;surprise
+Не уважай?;anger;surprise
+Измочаливай?;anger;surprise
+Она тужила.;sadness;sadness
+Она омрачала.;sadness;sadness
+Она томилась!;sadness;joy
+Она не перетревожила?;fear;anger
+Изнуряй.;sadness;anger
+Не разозли.;fear;anger
+Она не утомила?;surprise;sadness
+Она не перенервничала?;surprise;anger
+Не свирепей?;surprise;anger
+Восторгайся.;joy;joy
+Не взбелени?;surprise;anger
+Отчайся?;sadness;surprise
+Не бесись!;anger;anger
+Она опасалась!;fear;fear
+Не вознегодуй?;fear;surprise
+Она терзалась!;sadness;anger
+Не изнывай!;joy;anger
+Она устрашилась!;fear;sadness
+Она не предвкушала!;sadness;surprise
+Не взбодрись.;sadness;anger
+Не обеспокойся!;joy;joy
+Она развлекалась!;joy;joy
+Подшучивай?;joy;surprise
+Промайся!;sadness;anger
+Она умаяла.;sadness;surprise
+Она не хватила?;surprise;anger
+Она доставала.;anger;sadness
+Не разгневайся.;fear;anger
+Надивись?;surprise;surprise
+Она не изныла!;joy;anger
+Не нервируй.;anger;anger
+Она не изнемогла?;surprise;surprise
+Не взбелени.;fear;anger
+Она отчаивалась?;sadness;sadness
+Она не взбеленилась!;surprise;anger
+Она утомлялась?;sadness;sadness
+Она порадовала!;joy;joy
+Она разъярила.;anger;anger
+Погорюй!;sadness;anger
+Она встряхнулась!;joy;joy
+Она преследовала?;anger;anger
+Не терроризируй?;anger;anger
+Она злобилась!;anger;anger
+Она не колола!;anger;anger
+Изводись.;sadness;sadness
+Она не испугалась.;joy;fear
+Она не порадовала.;sadness;joy
+Не скучай!;joy;sadness
+Вдохновляйся.;joy;joy
+Она не озлоблялась?;surprise;anger
+Разочаруйся.;sadness;sadness
+Веселись?;joy;joy
+Оплачь?;sadness;surprise
+Она не торжествовала!;sadness;joy
+Не изумляйся?;surprise;surprise
+Она измочалила!;anger;surprise
+Повеселей.;joy;joy
+Испугай!;fear;anger
+Не возвеселись.;sadness;anger
+Не повреди?;surprise;surprise
+Она не повредила.;joy;sadness
+Не озли.;fear;anger
+Она сломила?;sadness;anger
+Она тревожилась?;fear;fear
+Не устыдись!;joy;anger
+Она не смущалась!;joy;anger
+Раздражи.;anger;anger
+Она изнуряла?;sadness;anger
+Изуми!;surprise;joy
+Она не разочаровала!;joy;sadness
+Люби.;joy;joy
+Унывай!;sadness;surprise
+Не услаждайся!;sadness;anger
+Она освежила.;joy;joy
+Не разволнуй!;joy;anger
+Она сокрушила!;anger;anger
+Обрадуй!;joy;joy
+Не удовлетворись?;sadness;surprise
+Она застращала!;fear;joy
+Она не тревожила?;surprise;fear
+Не привязывайся!;anger;anger
+Дави?;anger;surprise
+Она угрюмела?;sadness;anger
+Она не взорвала.;sadness;surprise
+Не расстраивай?;joy;anger
+Она не выматывала?;surprise;surprise
+Огорчи?;sadness;surprise
+Не приободрись!;sadness;anger
+Не надоедай!;anger;anger
+Она прогневала?;anger;anger
+Она не взвыла!;joy;anger
+Не стесняйся.;joy;anger
+Она не терпела?;surprise;sadness
+Не соскучься!;joy;sadness
+Она не дрейфила!;joy;anger
+Скисай!;sadness;joy
+Она не восторгалась!;sadness;joy
+Она кручинилась!;sadness;joy
+Она трусила.;fear;anger
+Опасайся.;fear;fear
+Она не порадовала?;sadness;surprise
+Она сникла.;sadness;sadness
+Она не стыдилась.;joy;anger
+Она никла!;sadness;anger
+Не дуйся?;surprise;anger
+Она стервенела.;anger;anger
+Она не рассерчала!;joy;anger
+Волнуй?;fear;surprise
+Не гордись?;sadness;surprise
+Она не расстраивалась.;joy;sadness
+Не поверь!;surprise;anger
+Обожай?;joy;surprise
+Восхищайся.;joy;sadness
+Она не проплакала.;joy;anger
+Надоешь?;surprise;surprise
+Жалей.;sadness;sadness
+Она не заскучала.;joy;sadness
+Взгрустни.;sadness;anger
+Она не побоялась!;joy;anger
+Расстраивайся.;sadness;anger
+Она не колола?;surprise;surprise
+Она ужаснула?;fear;fear
+Она отчаялась!;joy;sadness
+Она рассердила?;sadness;anger
+Не пугай.;anger;fear
+Она не погоревала.;joy;sadness
+Не гневи!;anger;anger
+Изведись.;sadness;anger
+Она не разревелась!;surprise;anger
+Не обрадуйся?;sadness;joy
+Она удовлетворяла?;joy;surprise
+Она разочаровала?;sadness;sadness
+Она серчала!;anger;anger
+Она не огорчила!;joy;sadness
+Она боялась!;fear;fear
+Она не прослезилась?;surprise;surprise
+Она помрачилась.;sadness;sadness
+Она не воскресила?;sadness;surprise
+Обалдевай!;surprise;joy
+Не окрысься?;anger;anger
+Она раздражила?;anger;anger
+Не предвкушай.;sadness;joy
+Озлись?;anger;surprise
+Обозли?;anger;surprise
+Обозлись.;anger;sadness
+Она сдрейфила.;fear;anger
+Она подшучивала?;surprise;surprise
+Она прослезилась!;sadness;sadness
+Не хихикай!;joy;anger
+Она не воскресала.;sadness;sadness
+Разъяри.;anger;anger
+Не печаль?;surprise;sadness
+Обомри?;surprise;surprise
+Не кисни?;surprise;anger
+Она наскучивала.;sadness;sadness
+Не взорви?;surprise;surprise
+Истерзайся?;sadness;anger
+Она опечалила!;sadness;sadness
+Она не переутомляла.;joy;sadness
+Она не соскучилась.;sadness;sadness
+Она намыкалась?;anger;surprise
+Не ободряйся?;surprise;anger
+Она не разочаровалась?;surprise;sadness
+Она озлоблялась!;joy;anger
+Пьяней!;anger;sadness
+Глуши?;surprise;surprise
+Ослепи!;anger;surprise
+Она не опечаливала!;joy;anger
+Она рассердилась.;anger;anger
+Она опечалилась?;sadness;sadness
+Она не отпугивала?;surprise;fear
+Не оплакивай!;anger;sadness
+Она не льстила.;sadness;sadness
+Смутись!;fear;anger
+Не кручинься?;surprise;anger
+Изнемоги!;sadness;anger
+Не осточертей.;anger;anger
+Она не пугнула!;surprise;anger
+Не мучь?;surprise;anger
+Помрачайся?;sadness;surprise
+Ужасни.;fear;fear
+Она не погневалась?;fear;anger
+Она надулась!;sadness;surprise
+Она точила?;surprise;surprise
+Не воскресни?;surprise;surprise
+Она не перепугала.;joy;anger
+Тоскуй?;sadness;surprise
+Перенервничай?;fear;anger
+Изумляйся?;surprise;surprise
+Озлись!;anger;surprise
+Она загоревала.;sadness;fear
+Не развлеки.;sadness;joy
+Она не опьянела!;anger;sadness
+Пугай?;fear;surprise
+Она не напугала?;surprise;fear
+Не развесели.;sadness;anger
+Не омрачись?;surprise;sadness
+Она не изнурила!;joy;anger
+Она не переживала!;joy;sadness
+Она помрачалась.;sadness;sadness
+Она не плакала?;surprise;sadness
+Она не поразила!;sadness;surprise
+Она воскресла!;joy;joy
+Она измаялась.;sadness;sadness
+Она огорчалась.;sadness;sadness
+Она не опасалась.;joy;fear
+Она пугала.;fear;fear
+Обалдевай.;surprise;joy
+Не изумляйся!;anger;surprise
+Она взбесилась!;anger;anger
+Она злорадствовала!;anger;anger
+Не приободряйся?;surprise;anger
+Она не раздосадовала!;joy;anger
+Не страшись!;joy;fear
+Она устрашилась?;fear;surprise
+Она не сокрушалась!;joy;anger
+Огорчись.;sadness;surprise
+Не ободрись!;sadness;anger
+Разочаруй!;sadness;anger
+Она не измотала?;surprise;surprise
+Не смутись?;surprise;surprise
+Не погрусти?;surprise;surprise
+Не насмехайся.;sadness;joy
+Она не улыбалась?;sadness;joy
+Не измотайся!;anger;surprise
+Она струхнула?;fear;anger
+Страдай?;sadness;surprise
+Не рассмеши.;sadness;joy
+Она перетерпела!;joy;anger
+Не омрачись!;joy;sadness
+Не злей!;joy;anger
+Она не сосала!;anger;anger
+Она разгневалась?;fear;anger
+Истомись?;surprise;surprise
+Закручинься!;sadness;anger
+Весели?;joy;joy
+Она не порадовалась.;sadness;joy
+Она скучала?;surprise;sadness
+Она дивилась.;surprise;anger
+Перетрусь?;fear;surprise
+Не воскрешай?;surprise;surprise
+Она не стосковалась?;surprise;surprise
+Мучься?;sadness;surprise
+Не измучься!;anger;anger
+Не напугай!;anger;fear
+Она не тяготила?;surprise;anger
+Она возрадовалась?;surprise;surprise
+Не посетуй?;surprise;surprise
+Она не домучилась.;sadness;sadness
+Она не процветала?;surprise;surprise
+Намучься.;sadness;anger
+Она не подшучивала!;joy;anger
+Не утомляй!;anger;anger
+Она достала!;anger;joy
+Она устрашила?;fear;surprise
+Она не злобилась.;joy;anger
+Она промаялась?;surprise;surprise
+Не переутомляй?;surprise;anger
+Она расстроила.;sadness;sadness
+Она омрачилась?;sadness;sadness
+Серчай!;anger;joy
+Она не озлобляла?;surprise;anger
+Она изнервничалась!;fear;anger
+Забойся?;surprise;anger
+Повеселись.;joy;sadness
+Она не пьянела?;surprise;surprise
+Она утомлялась!;sadness;sadness
+Она восхитилась?;joy;surprise
+Она не смела?;surprise;anger
+Она свирепела.;anger;sadness
+Она взволновалась?;fear;surprise
+Она не позлилась?;surprise;surprise
+Она не вымотала!;anger;anger
+Злей?;surprise;surprise
+Она окрысилась!;anger;anger
+Не печаль!;joy;sadness
+Подиви.;surprise;anger
+Она не сторонилась?;surprise;surprise
+Она подбодрилась!;joy;anger
+Удручай.;sadness;anger
+Она не взбесилась?;surprise;anger
+Она не преследовала!;anger;anger
+Она порадовалась!;joy;joy
+Взбодрись?;joy;anger
+Восхищайся?;joy;sadness
+Она утомилась?;surprise;sadness
+Она не глушила!;anger;anger
+Утоми!;sadness;surprise
+Она насладилась?;joy;joy
+Она не захандрила.;joy;anger
+Цвети.;joy;joy
+Она не кручинилась?;surprise;surprise
+Она не сожалела!;joy;sadness
+Взбодрись!;joy;anger
+Она хмурилась.;sadness;sadness
+Не обеспокой!;anger;joy
+Она помучилась.;sadness;sadness
+Не жалей?;anger;sadness
+Она не разревелась?;surprise;surprise
+Она не кисла?;surprise;surprise
+Мечтай?;joy;surprise
+Она страдала.;sadness;sadness
+Рассмейся!;joy;anger
+Помрачись?;sadness;sadness
+Она не наскучивала.;joy;anger
+Она перепугалась.;fear;sadness
+Не майся!;anger;anger
+Сломись.;anger;sadness
+Блаженствуй.;joy;joy
+Она выматывала?;sadness;surprise
+Не воскресай!;anger;joy
+Поощряй!;joy;anger
+Она приободрялась.;joy;sadness
+Не развесели!;sadness;anger
+Настрадайся.;sadness;anger
+Она убила?;fear;anger
+Она не измаялась!;anger;surprise
+Не смей.;anger;anger
+Она сконфузилась?;surprise;sadness
+Развесели?;joy;surprise
+Побаивайся.;fear;joy
+Трясись?;fear;anger
+Она не омрачилась.;joy;sadness
+Она не пригорюнилась.;joy;sadness
+Помрачись.;sadness;sadness
+Страдай.;sadness;fear
+Она не затосковала?;surprise;surprise
+Не взгрустни?;joy;anger
+Она обмерла?;fear;surprise
+Не повреди.;fear;sadness
+Осерчай?;anger;surprise
+Не волнуйся!;joy;joy
+Она веселилась.;joy;joy
+Не убивай!;fear;anger
+Она разозлила!;anger;anger
+Не тоскуй.;joy;anger
+Она покаялась!;joy;sadness
+Не заволнуйся.;joy;anger
+Она обмирала?;surprise;surprise
+Она не дрожала!;joy;anger
+Остолбеней.;anger;anger
+Она не омрачилась!;joy;sadness
+Встревожь!;fear;joy
+Обрадуйся.;joy;joy
+Она не предвкушала?;surprise;surprise
+Она скисла.;sadness;sadness
+Дави.;anger;anger
+Не кисни!;joy;anger
+Не стыдись?;surprise;anger
+Понервничай.;fear;sadness
+Не заледеней!;anger;anger
+Она не проклинала!;joy;anger
+Она не упилась!;anger;anger
+Надоешь!;anger;anger
+Она запугала!;fear;fear
+Не обозлись!;anger;anger
+Помрачи.;sadness;joy
+Не люби.;sadness;joy
+Терзайся.;sadness;anger
+Терроризируй!;anger;anger
+Она не окрылила?;surprise;surprise
+Она не удивила!;anger;surprise
+Опечаль.;sadness;anger
+Она восторгала.;joy;joy
+Не порадуй!;sadness;joy
+Она утомляла?;surprise;sadness
+Она не удивлялась!;anger;surprise
+Не помрачайся?;surprise;anger
+Не измочаливай?;surprise;surprise
+Не удивляйся?;surprise;surprise
+Не повеселись!;sadness;joy
+Раздосадуйся?;sadness;anger
+Не просияй?;surprise;anger
+Переволнуйся.;fear;anger
+Беспокойся.;fear;sadness
+Она не соскучилась?;surprise;sadness
+Она не освежала!;sadness;surprise
+Не ненавидь!;fear;anger
+Хмурься?;sadness;anger
+Она глушила?;surprise;anger
+Растревоживай!;fear;anger
+Не утомляй.;anger;sadness
+Она рассердилась?;fear;anger
+Воскресай!;joy;anger
+Она устрашалась.;fear;sadness
+Она не ужасалась?;surprise;fear
+Рассвирепей!;anger;anger
+Она освежалась?;joy;surprise
+Она не шантажировала?;surprise;anger
+Она тряслась?;fear;fear
+Она хандрила!;sadness;anger
+Она не рассердила?;surprise;anger
+Она не вознегодовала?;surprise;surprise
+Не хмурься.;joy;anger
+Она отпугивала?;surprise;fear
+Не умай?;surprise;surprise
+Она беспокоила?;surprise;fear
+Перепугай.;fear;anger
+Она не злела!;anger;anger
+Она не пугала!;joy;fear
+Не сломи.;joy;anger
+Не прискучь?;surprise;anger
+Не огорчай.;joy;sadness
+Скорби!;sadness;sadness
+Не сникни!;joy;anger
+Не настрадайся.;joy;anger
+Она позлорадствовала?;anger;surprise
+Она не потрясала?;surprise;surprise
+Она выстрадала.;sadness;surprise
+Она плавала?;surprise;surprise
+Она уважала?;surprise;surprise
+Она мечтала?;surprise;surprise
+Она не нервировала!;joy;anger
+Она интересовалась.;joy;surprise
+Она дрожала.;fear;sadness
+Тревожь?;fear;fear
+Она не мечтала.;sadness;sadness
+Она стервенела?;anger;anger
+Взбесись.;anger;anger
+Она хлебнула!;joy;joy
+Она вымотала!;anger;anger
+Струхни!;fear;anger
+Не изной!;anger;anger
+Не разревись?;surprise;anger
+Не тревожься?;surprise;fear
+Она оплакивала?;sadness;sadness
+Она скучала!;sadness;sadness
+Она не никла.;joy;anger
+Не травмируй?;surprise;sadness
+Не ошеломи?;surprise;surprise
+Не освежайся?;surprise;surprise
+Не грусти.;joy;sadness
+Натерпись?;sadness;surprise
+Удручи.;sadness;anger
+Она не обеспокоила!;joy;joy
+Она насмехалась?;joy;joy
+Она измотала.;sadness;surprise
+Она не оплакала!;sadness;sadness
+Она угрожала?;anger;fear
+Не окрысься.;anger;anger
+Надоедай!;sadness;anger
+Не раздразни?;surprise;anger
+Леденей?;surprise;surprise
+Она развлеклась!;joy;joy
+Посетуй!;sadness;joy
+Не умаивай!;anger;anger
+Она опечаливала!;sadness;sadness
+Она не надоедала?;surprise;sadness
+Рассмеши?;joy;anger
+Не опечаливай.;joy;sadness
+Трепещи.;fear;anger
+Не торжествуй.;sadness;joy
+Интересуйся!;joy;surprise
+Она не злилась.;joy;anger
+Она помучилась!;sadness;sadness
+Она не возмущалась!;joy;anger
+Утомись!;sadness;surprise
+Не освежай!;sadness;joy
+Она не ярилась?;surprise;surprise
+Она окрысилась.;anger;anger
+Не потрясай?;surprise;surprise
+Она колола?;surprise;anger
+Не нервничай?;surprise;fear
+Застращай.;fear;sadness
+Никни.;sadness;anger
+Она не взбодрилась!;sadness;anger
+Она не любила?;sadness;anger
+Не захандри?;surprise;anger
+Она не вытерпела.;anger;sadness
+Струси?;fear;surprise
+Она негодовала.;anger;surprise
+Она светилась!;joy;joy
+Устрашай.;fear;anger
+Расстраивайся?;sadness;anger
+Она испугалась!;fear;fear
+Не светись?;surprise;surprise
+Услаждайся?;joy;joy
+Она не измочалила?;surprise;surprise
+Она подосадовала!;sadness;joy
+Она обалдела!;surprise;joy
+Она промаялась!;sadness;anger
+Она расстраивала!;sadness;fear
+Не ошеломи!;anger;surprise
+Встревожься!;fear;joy
+Растревоживай?;fear;anger
+Она никла?;sadness;surprise
+Она не болела!;joy;sadness
+Она не обрадовалась?;surprise;joy
+Она не струсила.;joy;anger
+Не подбодрись?;sadness;anger
+Она восхитила.;joy;joy
+Не осердись!;fear;anger
+Запугай?;fear;surprise
+Оживи.;joy;surprise
+Не огорчи!;anger;sadness
+Она измоталась!;sadness;surprise
+Не расстрой.;joy;anger
+Она потосковала!;sadness;anger
+Озлобь!;anger;anger
+Встряхнись?;joy;surprise
+Она достала.;anger;joy
+Не помрачай!;joy;anger
+Не сокруши!;anger;anger
+Забеспокойся!;fear;anger
+Встревожься.;fear;joy
+Она не растревоживала!;joy;anger
+Она не нервничала!;joy;fear
+Она не встряхнулась.;sadness;sadness
+Она не подавляла?;surprise;anger
+Удручай?;sadness;surprise
+Она опечалила.;sadness;sadness
+Смей!;joy;joy
+Она забоялась?;fear;anger
+Она не огорчила?;surprise;sadness
+Она растревоживала?;fear;anger
+Не переволнуй!;anger;anger
+Не подступай?;surprise;surprise
+Нервничай!;fear;anger
+Она не процветала!;sadness;anger
+Она никла.;sadness;anger
+Не торжествуй!;sadness;joy
+Не взбесись!;anger;anger
+Она изнервничалась.;fear;sadness
+Она не сокрушила?;surprise;anger
+Она стеснялась.;fear;fear
+Не изумись?;surprise;surprise
+Кручинься!;sadness;anger
+Она не преследовала?;surprise;surprise
+Она не цвела!;sadness;anger
+Не подосадуй?;surprise;surprise
+Она не сдрейфила.;joy;anger
+Скисай?;sadness;surprise
+Она не утомлялась.;joy;sadness
+Не ослепи!;anger;sadness
+Она не приободрялась!;sadness;anger
+Она расстраивала.;sadness;fear
+Она не гордилась!;sadness;joy
+Не обидься?;surprise;anger
+Она не взъярилась?;surprise;surprise
+Мечтай.;joy;joy
+Она преследовала.;fear;anger
+Проклинай?;anger;anger
+Гневайся!;anger;anger
+Пошути.;joy;anger
+Она кисла.;sadness;anger
+Не поверь?;surprise;surprise
+Не умай.;joy;anger
+Не разъярись?;surprise;anger
+Разобидься?;sadness;anger
+Измучься.;sadness;anger
+Она взвыла.;sadness;anger
+Она выстрадала?;sadness;surprise
+Она не злобилась?;fear;anger
+Она побаивалась!;fear;anger
+Запугивай.;fear;anger
+Злорадствуй!;anger;anger
+Не кручинься!;joy;anger
+Расцвети!;joy;joy
+Измотай?;sadness;surprise
+Не побаивайся.;joy;anger
+Она злела!;anger;anger
+Она не радовала!;sadness;joy
+Мучь.;sadness;anger
+Она не переживала.;joy;sadness
+Она пригорюнилась.;sadness;joy
+Она не страдала!;joy;sadness
+Она взъярилась.;anger;anger
+Не возмущайся!;anger;anger
+Заинтересуй!;joy;surprise
+Раздражай.;anger;anger
+Она резвилась?;joy;surprise
+Она не вытерпела!;anger;anger
+Она не пригорюнилась!;joy;joy
+Балдей.;joy;joy
+Презирай?;anger;surprise
+Она не насмехалась.;sadness;joy
+Глуши!;anger;anger
+Она омрачила!;sadness;sadness
+Она перетерпела?;sadness;anger
+Пугани?;fear;surprise
+Она не негодовала!;joy;surprise
+Она не огорчалась?;surprise;sadness
+Переживай!;fear;sadness
+Плавай?;surprise;joy
+Она наслаждалась!;joy;joy
+Она не заинтересовала?;surprise;surprise
+Она не пригорюнилась?;surprise;surprise
+Она не обрадовалась!;sadness;joy
+Она гнела?;sadness;anger
+Огорчай!;sadness;surprise
+Надейся!;joy;anger
+Не ужасайся!;joy;fear
+Угрюмей!;sadness;fear
+Она озлилась?;anger;surprise
+Разревись!;sadness;anger
+Она расстроилась.;sadness;sadness
+Она не пуганула!;joy;fear
+Не встряхивайся?;surprise;anger
+Не умайся.;anger;anger
+Она не оживила.;sadness;sadness
+Она недолюбливала.;anger;anger
+Не озлобляйся.;joy;anger
+Она не убила!;joy;anger
+Она не встряхивалась?;surprise;surprise
+Не раздосадуйся?;surprise;anger
+Она взбодрилась.;joy;anger
+Перетерпи?;sadness;surprise
+Она погоревала!;sadness;joy
+Не измотай!;anger;surprise
+Она шантажировала?;surprise;anger
+Она не ненавидела?;surprise;anger
+Она не воодушевилась.;sadness;joy
+Она раздражалась?;anger;anger
+Она обрадовала!;joy;joy
+Не мечтай.;sadness;sadness
+Дрожи.;fear;anger
+Она не расцветала.;sadness;sadness
+Интересуйся?;joy;surprise
+Она прискучивала?;sadness;surprise
+Не глуши!;anger;anger
+Она не разозлила?;surprise;anger
+Она не раздавила!;surprise;anger
+Не привязывайся?;surprise;surprise
+Пугани!;fear;fear
+Не позлорадствуй!;anger;anger
+Раздосадуй?;sadness;anger
+Не загрусти?;surprise;surprise
+Она не развлекла!;sadness;joy
+Она не разгневала?;surprise;anger
+Улыбайся.;joy;joy
+Тревожься!;fear;fear
+Не истоскуйся.;joy;anger
+Не прогневай!;fear;anger
+Кисни.;sadness;anger
+Захандри.;sadness;anger
+Она взволновала?;fear;surprise
+Она не раздражалась.;joy;anger
+Она не утомляла?;surprise;sadness
+Стесняйся?;fear;surprise
+Она не раздражалась?;surprise;anger
+Она не ликовала!;anger;joy
+Не понервничай.;joy;sadness
+Она освежилась.;joy;joy
+Она не изумлялась!;sadness;surprise
+Унывай.;sadness;surprise
+Не огорчайся.;joy;sadness
+Не озлобься!;joy;anger
+Не изнывай.;joy;anger
+Негодуй!;anger;anger
+Пугни.;fear;anger
+Ярись?;anger;surprise
+Устрашайся!;fear;anger
+Не изумись.;sadness;joy
+Не повреди!;anger;anger
+Она дивилась?;surprise;surprise
+Она поволновалась?;fear;surprise
+Захватывай.;joy;anger
+Она не поникла.;joy;anger
+Она не бесила!;joy;anger
+Скисни.;sadness;joy
+Осерчай!;anger;surprise
+Не повеселей.;sadness;joy
+Она разгневалась.;anger;anger
+Она пуганула.;fear;fear
+Скисни?;sadness;surprise
+Тяготи?;sadness;surprise
+Не намыкайся?;surprise;anger
+Спугивай.;fear;anger
+Она не изнервничалась?;surprise;surprise
+Она устрашила.;fear;sadness
+Она ненавидела!;anger;anger
+Она не переволновалась!;joy;anger
+Она разгневалась!;anger;anger
+Она развеселила!;joy;joy
+Не ослепи?;surprise;surprise
+Она упилась!;joy;joy
+Хихикай?;joy;surprise
+Восторгай.;joy;joy
+Не возмутись!;anger;anger
+Она не взвыла?;surprise;anger
+Проклинай!;anger;anger
+Она не поразилась!;surprise;surprise
+Не опостылей?;surprise;anger
+Она намучилась!;sadness;joy
+Не пой!;anger;anger
+Не сожалей.;joy;sadness
+Она печалила?;sadness;sadness
+Дрожи?;fear;surprise
+Она не угрюмела!;joy;anger
+Она остолбенела.;fear;sadness
+Она не разъярила?;surprise;surprise
+Интересуйся.;joy;surprise
+Тревожь.;fear;fear
+Она не разобиделась?;surprise;surprise
+Она не извелась.;joy;surprise
+Насыщайся!;joy;joy
+Не измотайся?;surprise;surprise
+Она хихикала?;joy;anger
+Она не мучилась.;joy;sadness
+Она умаялась!;sadness;surprise
+Просияй?;joy;surprise
+Разнервничайся?;fear;anger
+Прогневай.;anger;anger
+Она напугала.;fear;fear
+Она посмеялась?;joy;joy
+Она взволновалась.;fear;surprise
+Она прогневала!;anger;anger
+Надивись!;surprise;joy
+Исстрадайся.;sadness;anger
+Она не расстроила.;joy;sadness
+Она поражала.;surprise;surprise
+Она не загоревала.;joy;fear
+Утомись.;sadness;sadness
+Она не достала!;joy;anger
+Она взбесила.;anger;anger
+Не возликуй.;sadness;anger
+Она смущалась?;fear;anger
+Не загорюй.;joy;fear
+Она плакала!;sadness;sadness
+Восхити.;joy;sadness
+Она не рассердилась?;fear;anger
+Не помрачай.;joy;sadness
+Возненавидь!;anger;anger
+Она возрыдала?;sadness;surprise
+Не восторгай!;sadness;joy
+Развлекись?;joy;surprise
+Она не хлебнула?;surprise;surprise
+Она извелась!;sadness;surprise
+Убойся!;fear;anger
+Она не обрадовала!;sadness;joy
+Не переволнуй?;surprise;anger
+Не изводись!;joy;anger
+Не смущай?;surprise;anger
+Она не скорбела!;joy;sadness
+Она не разгневала.;joy;anger
+Она опечалила?;sadness;sadness
+Она не восхитилась?;surprise;surprise
+Возвеселись!;joy;joy
+Не преследуй?;surprise;anger
+Не поднимай!;anger;anger
+Она восхитилась.;joy;joy
+Она разобиделась!;sadness;anger
+Она подивилась.;surprise;surprise
+Не посетуй.;joy;surprise
+Она взгрустнула.;sadness;anger
+Она огорчила?;sadness;sadness
+Она не тушевалась?;surprise;surprise
+Не огорчи.;joy;sadness
+Она не вспылила.;joy;anger
+Она не потрясала!;sadness;joy
+Она не огорчилась!;joy;sadness
+Она опьянела?;surprise;sadness
+Побойся!;fear;anger
+Не ярись.;fear;anger
+Она не освежала?;surprise;surprise
+Рассвирепей.;anger;anger
+Она страшила!;fear;fear
+Не омрачай?;surprise;sadness
+Она осердилась?;anger;surprise
+Она не негодовала?;fear;surprise
+Она балдела.;joy;joy
+Она травмировала?;anger;sadness
+Она заледенела!;surprise;joy
+Соси.;anger;sadness
+Не озлобь!;fear;anger
+Страшись?;fear;surprise
+Она не окрылила!;sadness;anger
+Она доставала?;surprise;surprise
+Она не возрадовалась!;surprise;anger
+Она ослепила?;joy;surprise
+Она не закручинилась?;surprise;surprise
+Она не устыдилась.;joy;sadness
+Разгневай.;anger;anger
+Она вытерпела.;sadness;sadness
+Она не содрогалась!;joy;anger
+Ледени!;anger;joy
+Она удивилась!;surprise;surprise
+Она натерпелась.;sadness;sadness
+Не встряхнись.;sadness;anger
+Расцвети?;joy;surprise
+Она пугнула.;fear;anger
+Не волнуй.;anger;anger
+Прогневайся?;anger;anger
+Она не свирепела?;surprise;surprise
+Она не скисала?;surprise;surprise
+Опечаль?;sadness;surprise
+Она обалдевала?;surprise;surprise
+Она не соскучилась!;sadness;sadness
+Она сожалела?;sadness;sadness
+Тушуйся?;fear;joy
+Не изведись.;joy;anger
+Она не намучилась?;surprise;surprise
+Она заволновалась.;fear;anger
+Она блаженствовала!;joy;joy
+Труси?;fear;surprise
+Не злись!;fear;anger
+Она не сникала?;surprise;surprise
+Не беспокойся?;surprise;fear
+Не покайся.;joy;joy
+Спугивай!;fear;anger
+Исстрадайся?;sadness;surprise
+Она не забеспокоилась?;surprise;surprise
+Она замучивалась?;sadness;anger
+Она не прискучила!;joy;anger
+Она не рассерчала.;joy;anger
+Томись?;sadness;surprise
+Она пугалась.;fear;fear
+Она сломилась!;joy;anger
+Она взгрустнула!;sadness;anger
+Не кручинься.;joy;anger
+Она не захватывала!;sadness;surprise
+Она удручила.;sadness;sadness
+Не приободряйся.;sadness;anger
+Она не жалела.;joy;sadness
+Она поплакала.;sadness;sadness
+Она улыбнулась.;joy;joy
+Не резвись.;sadness;anger
+Раздосадуй!;sadness;anger
+Озлобь.;anger;sadness
+Она не обмирала?;surprise;surprise
+Вымотай!;sadness;surprise
+Она не осточертела?;anger;surprise
+Помрачи?;sadness;surprise
+Торжествуй!;joy;anger
+Не озлобься?;surprise;anger
+Она не гневила?;surprise;anger
+Она повеселилась?;joy;joy
+Не упейся!;anger;anger
+Перепугайся?;fear;anger
+Утомляйся?;sadness;surprise
+Изнемогай?;sadness;surprise
+Она не сникла?;surprise;surprise
+Она не печалила!;joy;sadness
+Она не окрысилась?;surprise;surprise
+Возмутись.;anger;sadness
+Восхитись.;joy;anger
+Она восторгалась?;joy;joy
+Озлобься!;anger;anger
+Изуми.;surprise;joy
+Не порадуйся.;sadness;joy
+Не раздразнивай?;surprise;anger
+Она сохла.;sadness;sadness
+Потоскуй.;sadness;anger
+Не угнетай.;fear;anger
+Она не растревоживала?;surprise;anger
+Она обмерла!;fear;surprise
+Радуй.;joy;joy
+Она не приуныла?;surprise;surprise
+Повеселей!;joy;joy
+Не сникай?;surprise;surprise
+Блаженствуй!;joy;joy
+Она не тужила!;joy;anger
+Не прослезись.;joy;anger
+Не гневайся?;surprise;anger
+Она удивлялась.;surprise;surprise
+Умаивай?;sadness;anger
+Она не угрожала?;surprise;fear
+Она не помрачила?;surprise;anger
+Загрусти?;sadness;anger
+Взволнуйся?;fear;anger
+Не насмехайся?;surprise;anger
+Посмеивайся!;joy;joy
+Она рассмешила!;joy;joy
+Утомляй?;sadness;surprise
+Она стеснялась!;fear;anger
+Кисни?;sadness;surprise
+Не сломись!;joy;anger
+Негодуй?;anger;surprise
+Струхни?;fear;anger
+Она удивляла?;surprise;surprise
+Она не обмерла?;surprise;surprise
+Не закручинься?;surprise;surprise
+Она не ошеломила?;surprise;surprise
+Она позлорадствовала.;anger;anger
+Она не извелась?;surprise;surprise
+Не веселись.;sadness;joy
+Она изнурила!;anger;anger
+Кручинься.;sadness;anger
+Она не смущалась?;surprise;anger
+Она не леденела?;surprise;surprise
+Она не смела!;anger;anger
+Она сникала?;sadness;surprise
+Вымотай.;sadness;surprise
+Она не цвела?;surprise;surprise
+Она не упивалась!;joy;anger
+Не разобидься!;anger;anger
+Она не повредила!;joy;anger
+Она не осердилась!;joy;anger
+Она не стращала!;joy;anger
+Не оплачь?;surprise;anger
+Напугайся!;fear;anger
+Она не восхитила?;surprise;surprise
+Она не посетовала?;surprise;surprise
+Она стращала?;fear;surprise
+Она опостылела?;sadness;anger
+Она не расстроила?;surprise;sadness
+Она не серчала.;joy;sadness
+Она поражалась!;surprise;surprise
+Печалься!;sadness;sadness
+Не помрачайся!;joy;anger
+Она упивалась!;joy;anger
+Фыркай!;anger;anger
+Она раздразнивала.;joy;anger
+Она не жгла.;sadness;anger
+Развлекай.;joy;anger
+Она не взбесила!;joy;anger
+Она стыдилась?;fear;anger
+Не резвись?;sadness;anger
+Она забоялась!;fear;anger
+Разозлись?;anger;surprise
+Не сердись!;fear;anger
+Не горюй!;joy;anger
+Она не удовлетворялась?;sadness;surprise
+Она заскучала?;sadness;surprise
+Она разревелась!;sadness;joy
+Обрадуй.;joy;joy
+Она не осердилась.;joy;sadness
+Она отчаялась.;sadness;sadness
+Не восхити.;sadness;joy
+Она рассмешила?;joy;joy
+Она позабавилась.;joy;joy
+Отпугивай!;fear;anger
+Она загоревала?;sadness;surprise
+Она помрачилась?;sadness;sadness
+Не освежайся!;sadness;joy
+Она не сокрушалась.;joy;sadness
+Не пугайся!;joy;fear
+Не недоумевай!;anger;surprise
+Не огорчай?;surprise;sadness
+Не доставай?;surprise;surprise
+Болей!;anger;sadness
+Она перетревожила.;fear;sadness
+Не подиви?;surprise;surprise
+Не опасайся!;joy;fear
+Не вспыли!;anger;anger
+Она не хандрила!;joy;anger
+Она перетревожила?;fear;anger
+Она покаялась.;sadness;sadness
+Она истерзалась?;sadness;anger
+Бойся?;fear;surprise
+Она раздосадовала!;sadness;joy
+Она не изумилась!;surprise;surprise
+Она радовалась!;joy;joy
+Она струхнула.;fear;anger
+Порадуй?;joy;surprise
+Взбеси!;anger;anger
+Не скорби?;surprise;sadness
+Она не скисала!;joy;anger
+Дуйся.;sadness;joy
+Она наскучивала?;surprise;surprise
+Не возмути!;anger;anger
+Она радовалась.;joy;joy
+Пугни?;fear;surprise
+Она не омрачалась.;joy;sadness
+Она ободрялась!;joy;anger
+Паникуй.;fear;fear
+Не недолюбливай.;joy;anger
+Она не дулась?;surprise;anger
+Повреди.;anger;anger
+Она возвеселилась?;joy;surprise
+Она не встряхнулась!;sadness;anger
+Не уважай.;anger;anger
+Не блаженствуй?;sadness;joy
+Не закручинься!;joy;anger
+Разгневайся!;anger;anger
+Переверни?;surprise;surprise
+Она не отчаялась!;joy;sadness
+Она восторгала?;joy;joy
+Беспокой!;fear;sadness
+Обмирай.;fear;sadness
+Не испугайся?;surprise;fear
+Не стесняйся!;joy;anger
+Она развеселилась?;joy;surprise
+Не развлекай.;sadness;joy
+Не посмейся.;sadness;joy
+Она обозлилась?;anger;surprise
+Она не насмехалась!;sadness;joy
+Она позабавилась!;joy;joy
+Она не развлеклась.;sadness;joy
+Она не дрожала?;surprise;anger
+Она сникала!;sadness;anger
+Не изнури?;surprise;anger
+Досадуй?;sadness;surprise
+Не измайся?;surprise;surprise
+Изводись!;sadness;anger
+Она презирала.;anger;anger
+Встряхивайся?;joy;joy
+Гневи?;anger;surprise
+Не развесели?;sadness;surprise
+Скучай?;sadness;sadness
+Не опечаливай!;joy;anger
+Удручи!;sadness;anger
+Она расцветала!;joy;joy
+Она переутомила.;sadness;sadness
+Не угрожай!;anger;fear
+Ужасай.;fear;fear
+Не освежись.;sadness;joy
+Она не надоела!;joy;anger
+Не возмущай!;anger;anger
+Она подавляла?;anger;anger
+Не устыдись?;surprise;anger
+Не расстройся.;joy;anger
+Не досадуй.;joy;anger
+Она не надоедала!;joy;sadness
+Она не подосадовала.;joy;sadness
+Она не растревоживала.;joy;sadness
+Замучься!;sadness;anger
+Она сторонилась?;surprise;surprise
+Она ошеломила.;surprise;surprise
+Она не умаялась.;joy;anger
+Она не взволновала?;surprise;surprise
+Она не омрачалась?;surprise;sadness
+Не выстрадай!;joy;anger
+Не смущай!;anger;anger
+Озлобь?;anger;anger
+Она не напугалась!;sadness;fear
+Она не перетерпела!;anger;anger
+Не вымотай!;anger;anger
+Взбадривайся!;joy;anger
+Ненавидь.;anger;anger
+Не скорби!;joy;sadness
+Она истерзалась!;sadness;anger
+Не струхни!;joy;anger
+Удивляйся.;surprise;surprise
+Не обрадуйся!;sadness;joy
+Проплачь.;sadness;anger
+Она развеселила?;joy;surprise
+Не обмирай!;anger;anger
+Она не тревожила!;joy;fear
+Ликуй?;joy;surprise
+Не измочаль?;surprise;surprise
+Перепугай!;fear;anger
+Угнетай!;sadness;anger
+Приунывай.;sadness;anger
+Воодушевись?;joy;surprise
+Не удовлетворяйся?;sadness;surprise
+Она не посмеялась?;surprise;joy
+Разъярись.;anger;anger
+Не понервничай?;surprise;anger
+Она не тревожилась!;joy;fear
+Она смеялась?;joy;joy
+Она не расцвела?;surprise;surprise
+Не окрыли?;sadness;surprise
+Взбодрись.;joy;anger
+Она не раздражила?;surprise;anger
+Она взвыла!;sadness;anger
+Она возрыдала!;sadness;anger
+Осердись!;anger;surprise
+Не тужи!;joy;anger
+Она давила?;anger;surprise
+Она удивилась.;surprise;surprise
+Она не повеселилась?;surprise;joy
+Презирай.;anger;joy
+Она ужаснула!;fear;fear
+Страшись.;fear;fear
+Не застращай!;anger;anger
+Не тревожь!;anger;fear
+Она стыдилась!;fear;anger
+Она не скорбела?;surprise;sadness
+Омрачай!;sadness;joy
+Она не горевала?;surprise;surprise
+Не расцветай.;sadness;joy
+Она волновала.;fear;fear
+Не резвись!;anger;anger
+Ярись!;anger;joy
+Печаль!;sadness;sadness
+Не разозли?;surprise;anger
+Не злобствуй.;anger;anger
+Она не встряхивалась.;sadness;sadness
+Она плакала.;sadness;sadness
+Не взбеси?;surprise;anger
+Не обеспокойся?;surprise;surprise
+Она огорчилась!;sadness;sadness
+Заинтересуй?;joy;surprise
+Не осточертей?;surprise;anger
+Не освежайся.;sadness;joy
+Стращай!;fear;fear
+Обалдевай?;surprise;surprise
+Забойся.;fear;joy
+Не серчай?;surprise;anger
+Она не раздразнила!;joy;anger
+Не подступай.;anger;anger
+Она возненавидела.;anger;anger
+Улыбнись?;joy;joy
+Она не рассердила!;joy;anger
+Не разозлись?;surprise;anger
+Она не заволновалась!;joy;anger
+Напугай.;fear;anger
+Переутомляй?;sadness;anger
+Не волнуй?;surprise;surprise
+Вспыли.;anger;fear
+Не смей?;surprise;anger
+Не понервничай!;joy;anger
+Не конфузься!;joy;anger
+Намыкайся!;anger;anger
+Она умаивала?;sadness;surprise
+Не взбеленись?;surprise;anger
+Она не истосковалась.;joy;sadness
+Она не смеялась.;sadness;joy
+Она ободрилась?;joy;surprise
+Не наскучивай?;surprise;anger
+Она изумилась.;surprise;joy
+Не проклинай!;fear;anger
+Она возмутила.;anger;anger
+Развлекай?;joy;surprise
+Пугни!;anger;anger
+Она не обалдела?;anger;surprise
+Не злись.;fear;anger
+Не восхитись!;sadness;joy
+Она изматывалась!;sadness;anger
+Помрачись!;sadness;joy
+Она не взгрустнула?;surprise;surprise
+Повреди?;anger;anger
+Она не тяготила.;joy;sadness
+Она не поволновалась?;surprise;surprise
+Не развлекай?;sadness;surprise
+Она не дрейфила?;surprise;surprise
+Тужи.;sadness;surprise
+Насладись!;joy;joy
+Она не умаивала?;surprise;surprise
+Омрачайся.;sadness;joy
+Она не сломила.;joy;sadness
+Она не блаженствовала!;sadness;joy
+Она посмеялась!;joy;joy
+Осточертей?;sadness;surprise
+Не наслаждайся!;sadness;joy
+Не удивляй!;joy;surprise
+Она льстила?;joy;anger
+Омрачи.;sadness;anger
+Она не нервировала?;surprise;surprise
+Развлеки.;joy;anger
+Не изнуряй!;anger;anger
+Не подосадуй.;joy;anger
+Не пугни?;surprise;anger
+Измайся?;sadness;surprise
+Она угнетала?;sadness;anger
+Не утомись!;joy;sadness
+Устрашай!;fear;anger
+Не дави?;surprise;surprise
+Она застращала.;fear;sadness
+Она давила.;anger;joy
+Убей.;anger;anger
+Не взорвись?;surprise;surprise
+Она не затосковала.;joy;sadness
+Не убойся!;joy;anger
+Не мучься!;joy;anger
+Натерпись!;sadness;joy
+Она перепугалась!;fear;anger
+Она не огорчилась?;surprise;sadness
+Не раздави!;anger;anger
+Расстраивай!;sadness;anger
+Не умайся!;anger;anger
+Она веселила!;joy;joy
+Рань?;sadness;surprise
+Она не утомляла!;joy;sadness
+Не рань.;sadness;sadness
+Удовлетворись.;joy;joy
+Она не упивалась.;sadness;sadness
+Она намучилась?;sadness;surprise
+Не измочаль!;anger;anger
+Она насладилась!;joy;joy
+Она встревожила!;fear;fear
+Не страдай.;joy;sadness
+Не сконфузься!;anger;anger
+Не остолбеней!;anger;anger
+Не намыкайся!;anger;anger
+Она не грустила.;joy;sadness
+Она не встревожилась.;joy;fear
+Она оплакивала!;sadness;sadness
+Угрожай!;anger;fear
+Она кисла?;anger;surprise
+Она струсила!;fear;anger
+Она не разочаровалась!;joy;sadness
+Она не возмущала.;joy;anger
+Она не оплакала?;surprise;sadness
+Она не светилась?;surprise;surprise
+Она опечалилась.;sadness;sadness
+Она рассердила.;anger;anger
+Она встряхивалась.;joy;sadness
+Она не истомилась.;joy;sadness
+Не запугивай?;surprise;anger
+Она не изнурила.;joy;sadness
+Она раздразнила!;anger;anger
+Она погрустнела!;sadness;joy
+Остолбеней?;fear;surprise
+Она перепугалась?;fear;surprise
+Она подосадовала.;sadness;sadness
+Не сломись?;surprise;anger
+Она не хватила.;sadness;anger
+Она не тяготила!;joy;anger
+Огорчи!;sadness;surprise
+Она леденила!;anger;joy
+Не оплачь!;joy;anger
+Она не стращала?;surprise;surprise
+Угрожай.;anger;fear
+Не скучай.;joy;sadness
+Тужи?;sadness;surprise
+Рассмеши!;joy;anger
+Цвети!;joy;joy
+Не изнывай?;surprise;surprise
+Она не сожалела?;surprise;sadness
+Она взволновалась!;fear;surprise
+Она не убоялась!;joy;anger
+Она не утомила.;joy;sadness
+Она наскучила.;sadness;sadness
+Опечаливай!;sadness;joy
+Она окрылилась.;joy;sadness
+Не прогневайся.;fear;anger
+Она не изводилась?;surprise;surprise
+Она не умаялась!;joy;anger
+Удручи?;sadness;anger
+Она надоела.;anger;sadness
+Она серчала?;anger;anger
+Она не бесила.;joy;anger
+Она не взволновалась?;surprise;surprise
+Не спугивай?;surprise;anger
+Она помрачилась!;sadness;sadness
+Не затрави?;surprise;surprise
+Она не рыдала?;surprise;anger
+Не любуйся!;anger;joy
+Недолюбливай.;sadness;anger
+Она раздражала!;anger;anger
+Она опечалилась!;sadness;sadness
+Она не сокрушалась?;surprise;anger
+Она не трусила!;joy;anger
+Не изматывайся?;surprise;anger
+Она нервничала.;fear;sadness
+Она не погрустила.;joy;sadness
+Она не тужила.;joy;sadness
+Она истосковалась.;sadness;sadness
+Она не жалела?;surprise;sadness
+Она не уважала.;anger;anger
+Она насыщалась?;joy;surprise
+Она не подступала!;anger;anger
+Она скорбела?;sadness;sadness
+Загрусти.;sadness;anger
+Она забеспокоилась.;fear;sadness
+Не подбодрись.;sadness;anger
+Раздражайся?;anger;anger
+Она плакала?;sadness;sadness
+Она беспокоила!;fear;fear
+Она исстрадалась.;sadness;sadness
+Не напугай?;surprise;fear
+Не поразись?;surprise;surprise
+Она огорчилась?;sadness;sadness
+Не взорви!;anger;surprise
+Она не воскрешала?;surprise;surprise
+Она поощряла.;joy;joy
+Прогневайся!;anger;anger
+Намучься!;sadness;anger
+Она печалилась!;sadness;sadness
+Она повредила!;anger;sadness
+Не удовлетворись!;sadness;joy
+Не раздражись?;surprise;anger
+Леденей.;fear;joy
+Не опечалься.;joy;sadness
+Не истоскуйся?;surprise;anger
+Помучься.;sadness;joy
+Она обеспокоилась?;fear;surprise
+Она побоялась?;fear;anger
+Не выматывай!;anger;anger
+Изумляйся!;surprise;joy
+Она не измочаливала?;surprise;surprise
+Стращай.;fear;fear
+Она рассерчала!;anger;anger
+Опечалься.;sadness;anger
+Ободряйся?;joy;anger
+Взволнуйся!;fear;anger
+Устрашись?;fear;surprise
+Она ранила!;anger;sadness
+Не ликуй?;surprise;anger
+Она не сердила!;joy;anger
+Она не взбадривалась.;sadness;anger
+Упейся.;anger;anger
+Она любовалась!;joy;joy
+Она удручала!;sadness;sadness
+Она не воскрешала!;sadness;sadness
+Не затоскуй.;joy;anger
+Она обеспокоила?;fear;surprise
+Хандри.;sadness;joy
+Смейся!;joy;joy
+Она не сердилась!;joy;anger
+Не изматывай!;anger;anger
+Она не рассмеялась?;surprise;joy
+Она раздразнила.;joy;anger
+Поднимай?;surprise;surprise
+Она не опечаливала?;surprise;surprise
+Она любила!;joy;joy
+Она изумлялась?;surprise;surprise
+Вдохновляйся?;joy;surprise
+Она выстрадала!;sadness;surprise
+Обожай!;joy;joy
+Она не заинтересовала.;sadness;surprise
+Она не болела.;joy;sadness
+Подружись.;joy;sadness
+Не тужи?;surprise;surprise
+Закручинься.;sadness;anger
+Она не давила!;joy;anger
+Не подивись!;anger;anger
+Насыщайся?;joy;sadness
+Не приуной.;joy;anger
+Она измочаливала.;sadness;sadness
+Вспыли?;anger;surprise
+Она не намучилась.;joy;sadness
+Не огорчайся!;joy;sadness
+Не возвеселись!;sadness;anger
+Не окрылись?;surprise;surprise
+Она не недоумевала.;joy;surprise
+Она осерчала.;anger;anger
+Не посетуй!;anger;surprise
+Не пугайся?;surprise;fear
+Понервничай!;fear;anger
+Посетуй?;sadness;surprise
+Содрогайся?;fear;surprise
+Она не наскучила?;surprise;surprise
+Не развлекайся.;sadness;joy
+Не отчаивайся?;surprise;anger
+Резвись.;joy;anger
+Люби!;joy;joy
+Взбадривайся?;joy;anger
+Изнывай?;sadness;surprise
+Упивайся!;anger;anger
+Она не гневалась.;joy;anger
+Расстрой!;sadness;anger
+Она взбодрилась?;joy;anger
+Она не презирала?;surprise;anger
+Она озлила.;anger;surprise
+Она убивала!;anger;anger
+Не преследуй.;anger;anger
+Захандри!;sadness;anger
+Она радовала.;joy;joy
+Она не надулась.;joy;sadness
+Устрашись.;fear;sadness
+Она смутилась!;fear;surprise
+Она не разозлила.;joy;anger
+Взволнуйся.;fear;anger
+Сникай!;sadness;anger
+Она загоревала!;sadness;fear
+Не гордись.;sadness;joy
+Она не освежилась!;sadness;joy
+Развлекай!;joy;anger
+Она не обиделась.;joy;anger
+Она паниковала.;fear;sadness
+Дрейфи!;fear;joy
+Не устрашай?;surprise;anger
+Дуйся!;sadness;joy
+Не утомись?;surprise;sadness
+Она трусила?;fear;anger
+Она раздражилась.;anger;anger
+Озли!;anger;surprise
+Не никни?;surprise;anger
+Не изматывай.;joy;anger
+Не окрылись.;sadness;anger
+Не наслаждайся.;sadness;joy
+Не устраши.;joy;anger
+Она перепугала.;fear;anger
+Потрясай.;surprise;joy
+Не вознегодуй.;fear;anger
+Она не тряслась?;surprise;fear
+Она упилась?;surprise;anger
+Приуной.;sadness;anger
+Она маялась?;sadness;surprise
+Погневайся!;anger;anger
+Она не услаждалась!;sadness;joy
+Не взволнуйся!;joy;anger
+Не рассмеши!;sadness;joy
+Восхити?;joy;surprise
+Она понервничала!;fear;anger
+Весели.;joy;joy
+Она не осердилась?;surprise;surprise
+Вытерпи.;sadness;anger
+Она не погрустнела?;surprise;surprise
+Не мучься.;joy;anger
+Она расцвела!;joy;joy
+Она досадовала?;sadness;anger
+Взгрустни!;sadness;anger
+Возликуй.;joy;anger
+Не пугайся.;joy;fear
+Раздражайся!;anger;anger
+Заскучай.;sadness;anger
+Не гордись!;anger;joy
+Она не наслаждалась?;surprise;joy
+Она не возликовала!;sadness;anger
+Зли!;anger;anger
+Она не нервировала.;joy;anger
+Не осознавай!;anger;surprise
+Не раздразнивай.;anger;anger
+Она не изводилась!;joy;anger
+Нервируй.;fear;anger
+Она не умаялась?;surprise;surprise
+Она не погрустнела.;joy;sadness
+Перетерпи.;joy;sadness
+Она не досадовала!;joy;anger
+Она не наслаждалась.;sadness;joy
+Не надивись?;surprise;surprise
+Она предвкушала!;joy;joy
+Она не потрясла?;surprise;surprise
+Не ободряйся.;sadness;anger
+Она не разозлилась!;joy;anger
+Не весели!;sadness;joy
+Горюй!;sadness;joy
+Не устраши!;anger;anger
+Не опупей!;anger;anger
+Она убивалась?;surprise;anger
+Не плавай?;surprise;surprise
+Не терзайся?;surprise;anger
+Она восхищала.;joy;joy
+Омрачись!;sadness;anger
+Не терпи!;joy;anger
+Предвкушай!;joy;anger
+Она не радовалась!;sadness;joy
+Она не смутилась!;joy;surprise
+Она возрыдала.;sadness;sadness
+Она измоталась?;surprise;surprise
+Подивись.;surprise;anger
+Обеспокой.;fear;sadness
+Не сокрушайся?;surprise;anger
+Она не измаялась.;joy;sadness
+Она подивила!;surprise;surprise
+Она не помрачалась!;joy;anger
+Не дави!;anger;anger
+Не удовольствуйся!;sadness;joy
+Не обозли?;surprise;surprise
+Она развлекала!;joy;joy
+Не доставай.;anger;anger
+Она не развлекала!;sadness;joy
+Не доставай!;anger;anger
+Она не обижалась?;surprise;anger
+Она опостылела!;sadness;anger
+Она не приуныла.;joy;sadness
+Она обалдевала!;surprise;joy
+Обеспокой!;fear;joy
+Недоумевай?;surprise;surprise
+Не сожалей?;surprise;sadness
+Она не перетерпела.;anger;anger
+Она домучилась.;sadness;sadness
+Она не перетрусила?;surprise;anger
+Взбелени!;anger;anger
+Она нарадовалась!;joy;anger
+Оплачь!;sadness;anger
+Не изнервничайся!;anger;anger
+Она не опечалила!;joy;anger
+Разволнуй!;fear;anger
+Не люби!;sadness;joy
+Она не перепугалась?;surprise;surprise
+Не расстраивай!;anger;anger
+Она застращала?;fear;surprise
+Она не мечтала!;sadness;sadness
+Истомись.;sadness;sadness
+Она не убивала?;surprise;anger
+Не раздражи!;anger;anger
+Она кручинилась?;sadness;surprise
+Она не развлекалась.;sadness;joy
+Загрусти!;sadness;anger
+Взгрустни?;sadness;anger
+Свирепей.;anger;anger
+Удовольствуйся!;joy;joy
+Не обозли.;fear;anger
+Она не понервничала!;joy;anger
+Она перенервничала!;fear;anger
+Она восхитила!;joy;joy
+Она ободрялась?;joy;anger
+Не страши?;surprise;fear
+Потряси?;surprise;surprise
+Она угрюмела!;sadness;anger
+Не озлобляйся!;anger;anger
+Не опупей?;surprise;anger
+Не надейся!;anger;anger
+Оплачь.;sadness;anger
+Она не взорвала?;surprise;surprise
+Она посетовала.;sadness;surprise
+Она не воспрянула!;sadness;anger
+Не поволнуйся!;joy;anger
+Удовлетворись?;joy;joy
+Она не воскресла?;surprise;surprise
+Не осознавай?;surprise;surprise
+Ярись.;anger;joy
+Она заскучала.;sadness;sadness
+Не сдрейфи.;joy;anger
+Она не презирала.;joy;anger
+Она не мучила.;joy;sadness
+Приуной?;sadness;surprise
+Она надоедала.;sadness;sadness
+Рассерчай?;anger;anger
+Она утомила.;sadness;sadness
+Она смутилась?;fear;surprise
+Она не достала?;surprise;surprise
+Она не злилась!;joy;anger
+Она не изнуряла!;joy;anger
+Дивись.;surprise;sadness
+Она не стеснялась!;joy;anger
+Она не озлилась!;joy;anger
+Свирепей?;anger;surprise
+Не спугивай!;anger;anger
+Диви.;surprise;anger
+Не изумляй?;surprise;surprise
+Она убила!;anger;anger
+Она не развлеклась!;sadness;joy
+Пугайся!;fear;fear
+Она угрожала!;fear;fear
+Она не ужасала.;joy;fear
+Она не обозлила?;surprise;surprise
+Раздразнивай!;joy;anger
+Порази.;surprise;sadness
+Не леденей!;anger;joy
+Она не пугалась!;joy;fear
+Запугай.;fear;anger
+Не воскресай?;surprise;surprise
+Не обидься!;anger;anger
+Она пугала?;fear;fear
+Она рассмеялась.;joy;joy
+Она не отпугивала!;joy;fear
+Она расстроилась?;sadness;sadness
+Она бесилась.;anger;anger
+Смутись?;surprise;anger
+Она не страшила.;joy;fear
+Взволнуй?;fear;anger
+Она не взволновалась!;joy;surprise
+Она ужасала!;fear;fear
+Не перетерпи?;surprise;anger
+Она не проплакала?;surprise;anger
+Не сникни?;surprise;surprise
+Не содрогайся?;surprise;surprise
+Не просияй.;sadness;anger
+Удовольствуйся.;joy;joy
+Она ободрилась.;joy;joy
+Она не страшилась!;joy;fear
+Она измочалила?;surprise;surprise
+Пугайся.;fear;fear
+Обидься.;sadness;anger
+Она переутомила?;surprise;surprise
+Она беспокоилась?;fear;fear
+Не беспокой!;anger;sadness
+Она не волновалась?;surprise;surprise
+Майся!;sadness;joy
+Она злилась!;anger;anger
+Она томилась?;sadness;surprise
+Она не поражала!;anger;surprise
+Не отпугивай?;surprise;fear
+Она скисала!;sadness;anger
+Не упейся.;anger;anger
+Она не перепугала?;surprise;anger
+Не взъярись?;surprise;anger
+Она не расстраивала!;joy;anger
+Не заволнуйся!;joy;anger
+Она оживила.;joy;joy
+Она не устрашалась?;joy;surprise
+Не заволнуйся?;surprise;anger
+Она хмурилась?;sadness;sadness
+Прискучь.;sadness;anger
+Не беспокойся.;joy;sadness
+Она не восхитила!;sadness;joy
+Гордись!;joy;joy
+Не расцветай!;sadness;joy
+Печалься?;sadness;sadness
+Затрави!;anger;anger
+Она волновала!;fear;fear
+Она жалела?;sadness;sadness
+Она не восторгалась.;sadness;joy
+Она не волновала.;sadness;fear
+Она опупела!;surprise;sadness
+Она обрадовалась?;joy;joy
+Она не ужасала?;surprise;fear
+Не сохни?;surprise;anger
+Она освежала?;joy;surprise
+Она не подивила?;surprise;surprise
+Она рассмешила.;joy;joy
+Не зли.;anger;anger
+Она не страшила!;joy;fear
+Не сокрушайся!;joy;anger
+Растревожь.;fear;sadness
+Освежайся?;joy;surprise
+Она замучилась!;sadness;anger
+Она не отчаялась?;joy;sadness
+Не истомись?;surprise;surprise
+Перепугайся.;fear;anger
+Устраши?;fear;surprise
+Она не изумляла?;surprise;surprise
+Сторонись!;anger;anger
+Не омрачись.;joy;sadness
+Она не вдохновлялась!;sadness;surprise
+Она потрясала!;surprise;joy
+Она не смущала!;joy;anger
+Не хвати?;surprise;anger
+Потрясай?;surprise;surprise
+Она не злела.;joy;anger
+Не домучься?;surprise;anger
+Она не поразилась.;sadness;surprise
+Не дрейфи!;joy;anger
+Взбеси?;anger;anger
+Томись!;sadness;joy
+Не блаженствуй!;sadness;joy
+Она улыбалась?;joy;joy
+Она не раздражала?;surprise;anger
+Она помрачила!;sadness;sadness
+Не поощряй!;anger;anger
+Раздосадуйся!;sadness;joy
+Она не плакала!;joy;sadness
+Она подружилась?;joy;surprise
+Серди?;anger;surprise
+Рассердись!;anger;anger
+Обрадуйся?;joy;joy
+Она не позабавилась!;sadness;joy
+Она не подшучивала?;surprise;surprise
+Сломи?;anger;surprise
+Не убивай.;fear;anger
+Она спугивала.;fear;sadness
+Она рыдала?;sadness;anger
+Не потоскуй.;joy;anger
+Она не удручала.;joy;sadness
+Подави?;surprise;surprise
+Прискучь?;sadness;surprise
+Она не томилась!;joy;surprise
+Она не восторгала.;sadness;joy
+Не обмирай.;joy;anger
+Погневайся?;anger;anger
+Огорчись!;sadness;surprise
+Не запугай!;anger;anger
+Она услаждалась?;joy;surprise
+Она поразилась?;surprise;surprise
+Не озлись?;surprise;surprise
+Не подави?;surprise;anger
+Она не устрашилась!;joy;sadness
+Она не маялась!;joy;surprise
+Затрави.;anger;anger
+Не изной.;joy;anger
+Обижайся?;sadness;surprise
+Убивай!;anger;anger
+Она не утомлялась!;joy;sadness
+Она переволновала!;fear;anger
+Она беспокоилась.;fear;fear
+Она трепетала?;fear;surprise
+Огорчись?;sadness;surprise
+Вознегодуй.;anger;anger
+Тушуйся!;fear;joy
+Она надоела?;sadness;sadness
+Разволнуй?;fear;anger
+Она не любила!;sadness;anger
+Фыркай.;anger;anger
+Она свирепела!;anger;anger
+Не обожай.;sadness;joy
+Она не проплакала!;joy;anger
+Она не печалила?;surprise;sadness
+Не обмирай?;surprise;surprise
+Не восхищайся!;sadness;joy
+Она возликовала?;joy;anger
+Не взъярись!;anger;anger
+Окрысься!;anger;anger
+Она ужасалась?;fear;fear
+Переживай?;fear;sadness
+Она убивалась!;sadness;anger
+Она изумляла?;surprise;surprise
+Не возмути?;surprise;anger
+Она раздавила?;surprise;anger
+Не запугивай.;anger;anger
+Не умайся?;surprise;anger
+Она не рассерчала?;fear;surprise
+Восторгайся?;joy;anger
+Она ненавидела?;anger;anger
+Она стращала!;fear;anger
+Позлись.;anger;sadness
+Она не ободрилась!;sadness;anger
+Она напугалась.;fear;fear
+Она окрылилась?;joy;surprise
+Не порадуй.;sadness;joy
+Она не подосадовала?;surprise;surprise
+Не разъяри?;surprise;anger
+Шантажируй?;surprise;surprise
+Не возненавидь?;surprise;anger
+Она бесила?;anger;anger
+Хандри?;sadness;surprise
+Она не улыбнулась?;sadness;joy
+Встревожься?;fear;surprise
+Подбодрись!;joy;anger
+Блаженствуй?;joy;joy
+Она восхищалась.;joy;joy
+Позли?;anger;surprise
+Она не удручила!;joy;sadness
+Она не надеялась.;sadness;joy
+Не захандри.;joy;anger
+Она достала?;surprise;surprise
+Она забеспокоилась!;fear;joy
+Развеселись.;joy;sadness
+Она расстраивала?;sadness;fear
+Беспокой?;fear;sadness
+Она унывала!;sadness;sadness
+Возликуй?;joy;surprise
+Она встревожилась!;fear;fear
+Не позлись?;surprise;surprise
+Хлебни?;surprise;surprise
+Она восхитила?;joy;surprise
+Она не взбесила?;surprise;anger
+Она не вспылила!;joy;anger
+Она обрадовалась.;joy;joy
+Она не улыбалась!;sadness;joy
+Подивись!;surprise;joy
+Она насытилась?;surprise;surprise
+Она не остолбенела?;surprise;surprise
+Она недоумевала.;anger;surprise
+Перенервничай.;fear;anger
+Она изумилась?;surprise;surprise
+Не преследуй!;anger;anger
+Она понравилась.;joy;joy
+Она посетовала!;sadness;surprise
+Она не разгневалась?;surprise;anger
+Она воодушевилась!;joy;joy
+Она не веселилась!;sadness;joy
+Не насмехайся!;sadness;joy
+Она извелась.;sadness;surprise
+Изнемоги.;sadness;anger
+Она пьянела!;anger;anger
+Поверь!;anger;anger
+Терпи?;surprise;surprise
+Она не радовала.;sadness;joy
+Она не изумилась?;surprise;surprise
+Невзлюби!;anger;anger
+Она убивалась.;sadness;sadness
+Она не обозлилась!;joy;anger
+Не озлобляй?;surprise;anger
+Она удивляла.;surprise;surprise
+Она не просияла?;sadness;surprise
+Не трясись!;anger;anger
+Озлобляйся?;anger;anger
+Она обижалась?;sadness;anger
+Восхищайся!;joy;sadness
+Скорби.;sadness;sadness
+Она разъярила!;anger;anger
+Упивайся?;surprise;surprise
+Не позлись!;anger;anger
+Не фыркай.;anger;anger
+Заволнуйся!;fear;anger
+Она не измочаливала!;anger;anger
+Замучься.;sadness;anger
+Не обалдевай?;surprise;surprise
+Не измайся!;joy;anger
+Она побаивалась.;fear;sadness
+Она угрожала.;anger;fear
+Истоскуйся!;sadness;joy
+Она не ненавидела!;joy;anger
+Она не позлила!;joy;anger
+Она не приободрилась?;fear;surprise
+Она не помучилась!;joy;sadness
+Не разгневай!;fear;anger
+Она не перетрусила.;joy;anger
+Смей?;surprise;joy
+Она радовала!;joy;joy
+Не рассмейся.;sadness;joy
+Не побаивайся?;surprise;anger
+Не взбадривайся!;sadness;anger
+Нервничай?;fear;anger
+Не посмейся!;sadness;joy
+Стыдись?;fear;anger
+Оплакивай!;sadness;anger
+Она не захандрила?;surprise;surprise
+Она заинтересовала.;joy;surprise
+Переболей!;sadness;anger
+Она побоялась!;fear;anger
+Не обозлись?;surprise;surprise
+Стервеней!;anger;anger
+Улыбнись!;joy;joy
+Она содрогалась!;fear;fear
+Смущай?;fear;sadness
+Осточертей!;anger;anger
+Не дуйся.;joy;anger
+Она удивляла!;surprise;surprise
+Жги!;joy;anger
+Она не казнилась!;anger;anger
+Она повредила.;anger;sadness
+Доставай?;surprise;surprise
+Она не изнервничалась!;anger;anger
+Она потрясла!;surprise;surprise
+Не тоскуй?;surprise;surprise
+Она не расстроилась.;joy;sadness
+Она взбеленила!;anger;anger
+Она озлобила!;anger;anger
+Наскучь!;sadness;anger
+Покайся.;anger;joy
+Она изныла.;sadness;sadness
+Не подосадуй!;joy;anger
+Освещай.;joy;sadness
+Она подавила!;anger;anger
+Торжествуй?;joy;surprise
+Она не поражалась.;sadness;surprise
+Она не печалилась?;surprise;sadness
+Вознегодуй?;anger;surprise
+Не весели?;sadness;joy
+Потоскуй!;sadness;anger
+Не убивайся.;joy;anger
+Она не возненавидела.;joy;anger
+Она не обозлилась?;surprise;surprise
+Омрачайся!;sadness;joy
+Не поникни?;surprise;surprise
+Она не омрачала!;joy;sadness
+Не потрясай!;anger;joy
+Не сердись?;surprise;anger
+Взбеси.;anger;anger
+Не омрачайся?;surprise;sadness
+Поплачь!;sadness;joy
+Не скисни.;joy;anger
+Она не погрустила!;joy;anger
+Она кисла!;sadness;anger
+Она не огорчалась!;joy;sadness
+Она не улыбнулась.;sadness;joy
+Не злобься.;joy;anger
+Она затравила.;anger;surprise
+Она не недоумевала!;surprise;surprise
+Она не тосковала?;surprise;surprise
+Она не спугивала!;anger;anger
+Она обижалась!;sadness;anger
+Она не рыдала!;joy;anger
+Не расстрой?;surprise;surprise
+Не намыкайся.;anger;anger
+Не смейся.;sadness;anger
+Она не переутомила.;joy;sadness
+Она разобиделась?;sadness;surprise
+Она не освежалась?;surprise;surprise
+Не расстрой!;anger;anger
+Она сосала?;surprise;anger
+Она обеспокоила!;fear;joy
+Намучься?;sadness;surprise
+Она умаяла?;sadness;surprise
+Болей.;sadness;sadness
+Стоскуйся.;sadness;anger
+Не выстрадай.;joy;anger
+Она возмутила!;anger;anger
+Она процветала.;joy;joy
+Она обрадовалась!;joy;joy
+Она не опечаливала.;joy;sadness
+Она прискучила!;sadness;anger
+Она напугалась?;fear;fear
+Не надейся.;sadness;anger
+Не разозлись.;fear;anger
+Она не обидела!;joy;anger
+Поражай!;surprise;joy
+Она не восхитилась.;sadness;joy
+Она не измотала.;joy;surprise
+Она содрогалась.;fear;fear
+Она пошутила!;joy;joy
+Позлорадствуй?;anger;anger
+Не убей?;surprise;anger
+Она не дивилась?;surprise;surprise
+Удовлетворись!;joy;joy
+Она не поразила?;surprise;surprise
+Не смущайся?;surprise;anger
+Мучь!;sadness;anger
+Приободрись!;joy;anger
+Она покаялась?;surprise;surprise
+Она не свирепела!;joy;anger
+Она не подавила?;surprise;anger
+Порази?;surprise;surprise
+Она пугнула?;fear;anger
+Она сломилась.;sadness;sadness
+Она не убила.;joy;sadness
+Она помрачала?;sadness;sadness
+Она наскучила?;sadness;surprise
+Она подавила.;anger;anger
+Она не обеспокоилась?;surprise;surprise
+Прискучивай!;sadness;anger
+Она не скисла?;surprise;surprise
+Она не обмирала.;joy;sadness
+Она не опостылела?;surprise;anger
+Захватывай?;surprise;surprise
+Порадуй.;joy;joy
+Не утомляйся?;surprise;anger
+Она затосковала!;sadness;anger
+Она испугала?;fear;fear
+Она не торжествовала?;surprise;surprise
+Она не стосковалась.;joy;sadness
+Расстройся.;sadness;anger
+Подосадуй.;sadness;anger
+Она изнемогла?;sadness;surprise
+Она не глушила?;surprise;anger
+Не проклинай.;fear;anger
+Она тряслась!;fear;fear
+Она не скучала.;joy;sadness
+Загорюй?;sadness;surprise
+Она не намыкалась!;anger;anger
+Сконфузься.;fear;sadness
+Не воскресни.;sadness;sadness
+Она не освещала!;sadness;surprise
+Не приуной?;surprise;surprise
+Она изнывала?;sadness;surprise
+Она злобилась.;anger;anger
+Расцветай!;joy;joy
+Не надуйся!;joy;anger
+Обомри!;sadness;anger
+Она обижалась.;sadness;anger
+Не настрадайся?;surprise;surprise
+Не поплачь!;joy;anger
+Удивляй.;surprise;surprise
+Она скорбела!;sadness;sadness
+Она не возмущалась?;surprise;anger
+Ободрись?;joy;surprise
+Она не обиделась!;joy;anger
+Не трясись?;surprise;anger
+Не взбеленись.;fear;anger
+Омрачай.;sadness;joy
+Она изнемогла!;sadness;anger
+Запугай!;fear;anger
+Жги.;joy;anger
+Соскучься?;sadness;anger
+Она не насладилась!;sadness;joy
+Не переживай.;joy;sadness
+Изнуряй!;sadness;anger
+Она не настрадалась?;surprise;surprise
+Злей!;anger;anger
+Не заинтересуй?;surprise;surprise
+Она вознегодовала!;anger;anger
+Нервируй!;fear;anger
+Она не обеспокоила?;surprise;surprise
+Не конфузься.;joy;anger
+Отчаивайся!;sadness;anger
+Не потряси!;anger;surprise
+Она ликовала?;surprise;joy
+Воспрянь!;joy;anger
+Она не беспокоилась.;joy;fear
+Она не запугала.;joy;fear
+Она не скисала.;joy;sadness
+Она не удивляла!;sadness;surprise
+Не повеселей!;sadness;joy
+Она стосковалась?;sadness;surprise
+Она не нарадовалась!;sadness;anger
+Она взбеленилась!;anger;anger
+Она не рассвирепела?;fear;anger
+Ослепи.;anger;surprise
+Не злобствуй?;surprise;anger
+Терроризируй?;anger;anger
+Она тосковала?;sadness;surprise
+Утомляйся.;sadness;anger
+Она не изнуряла?;surprise;anger
+Не казнись!;joy;anger
+Изматывай?;sadness;anger
+Возрадуйся?;joy;anger
+Она не восхищала.;sadness;joy
+Она ликовала!;joy;joy
+Не веселись?;sadness;joy
+Она не резвилась.;sadness;sadness
+Она хандрила?;sadness;surprise
+Она не удивила.;sadness;surprise
+Она опечаливала.;sadness;sadness
+Вспыли!;anger;fear
+Она негодовала?;anger;surprise
+Она не подивилась?;surprise;surprise
+Домучься?;sadness;surprise
+Не изнемоги!;joy;anger
+Не разгневайся?;surprise;anger
+Она обожала?;joy;joy
+Не опостылей!;anger;anger
+Не процветай!;sadness;joy
+Она не наскучила.;joy;sadness
+Не рассерчай?;surprise;anger
+Не переутоми!;anger;anger
+Скучай.;sadness;sadness
+Не переутоми.;anger;anger
+Закручинься?;sadness;anger
+Она не хихикала?;surprise;surprise
+Не угрюмей!;joy;anger
+Она не тревожилась.;joy;fear
+Она не злела?;surprise;anger
+Она стосковалась.;sadness;sadness
+Она не осерчала?;surprise;surprise
+Волнуй!;fear;anger
+Она досадовала!;sadness;anger
+Не нарадуйся!;sadness;anger
+Она не насмехалась?;surprise;anger
+Она раздосадовалась.;sadness;sadness
+Она не помрачилась?;surprise;sadness
+Не раздави?;surprise;anger
+Она расстраивалась?;sadness;fear
+Она не радовалась.;sadness;joy
+Развлекись!;joy;anger
+Не тушуйся.;joy;anger
+Раздразнивай?;surprise;anger
+Ужаснись?;fear;fear
+Позлорадствуй.;anger;anger
+Гордись.;joy;joy
+Она не обожала?;sadness;surprise
+Она пригорюнилась?;sadness;surprise
+Не жалей.;joy;sadness
+Не поникни.;joy;anger
+Она устыдилась?;fear;surprise
+Позабавься!;joy;anger
+Не позли.;fear;anger
+Не пугани!;fear;fear
+Ужасайся!;fear;fear
+Она не разволновала?;surprise;anger
+Страши!;fear;fear
+Она не изныла.;joy;sadness
+Печаль.;sadness;sadness
+Она не промаялась.;joy;sadness
+Она резвилась!;joy;anger
+Она не ужасалась.;joy;fear
+Она не перенервничала!;joy;anger
+Травмируй.;anger;anger
+Не убивайся!;joy;anger
+Не страшись?;surprise;fear
+Не интересуйся?;surprise;surprise
+Она взбеленилась?;anger;anger
+Она подивила.;surprise;surprise
+Не обомри!;anger;anger
+Она не возненавидела?;surprise;surprise
+Она не озлила!;joy;anger
+Подступай?;surprise;surprise
+Страшись!;fear;surprise
+Она не развеселила.;sadness;sadness
+Она не растревожила!;joy;anger
+Она развеселилась!;joy;joy
+Она удовлетворялась!;joy;joy
+Она захандрила.;sadness;anger
+Спугивай?;fear;surprise
+Она огорчила.;sadness;sadness
+Струси!;fear;anger
+Удивляйся!;surprise;surprise
+Не любуйся.;sadness;joy
+Понравься?;joy;joy
+Прослезись!;sadness;anger
+Стыдись.;fear;anger
+Не расцвети!;sadness;joy
+Не промайся?;surprise;anger
+Наскучивай.;sadness;anger
+Она терроризировала.;anger;anger
+Не любуйся?;surprise;joy
+Не изнемогай?;surprise;surprise
+Она не уважала!;anger;anger
+Она не перепугала!;joy;anger
+Травмируй!;anger;anger
+Не льсти!;anger;anger
+Не страшись.;joy;fear
+Она не изнывала!;joy;surprise
+Погрустней?;sadness;anger
+Она поразила.;surprise;surprise
+Она побаивалась?;fear;surprise
+Не осерчай?;surprise;anger
+Переживай.;sadness;sadness
+Она не смеялась?;sadness;joy
+Она жгла?;surprise;anger
+Не болей!;joy;sadness
+Изнывай!;sadness;anger
+Она не боялась!;joy;fear
+Она обидела?;sadness;anger
+Она грустила!;sadness;sadness
+Не гнети?;surprise;anger
+Озлобляйся.;anger;joy
+Испугайся!;fear;anger
+Не плачь.;joy;sadness
+Она не озлобилась.;joy;anger
+Тяготи!;sadness;anger
+Не освещай?;surprise;sadness
+Она переволновала.;fear;anger
+Не утомляйся!;joy;anger
+Не опечалься!;joy;anger
+Понравься.;joy;joy
+Она мучилась.;sadness;sadness
+Она не угнетала?;fear;anger
+Не болей?;surprise;sadness
+Она не выстрадала?;surprise;surprise
+Омрачись.;sadness;anger
+Она не расстроилась!;joy;sadness
+Любуйся.;joy;joy
+Она не надоела.;joy;sadness
+Она омрачала!;sadness;sadness
+Она не измучилась.;joy;sadness
+Поощряй?;joy;anger
+Раздражай?;anger;anger
+Не трепещи!;joy;anger
+Разозлись.;anger;anger
+Топай?;surprise;surprise
+Она понервничала?;fear;surprise
+Она не выстрадала.;joy;surprise
+Повеселись?;joy;surprise
+Она поникла!;sadness;anger
+Она любила.;joy;joy
+Она не понравилась?;sadness;joy
+Не возмущай?;surprise;anger
+Она ужаснулась.;fear;fear
+Она не подбодрилась?;surprise;surprise
+Разъярись!;anger;anger
+Обмирай?;sadness;surprise
+Она не сохла.;joy;sadness
+Она не приунывала.;joy;anger
+Не перетерпи!;anger;anger
+Не прогневайся?;surprise;anger
+Помрачайся.;sadness;joy
+Не изматывай?;surprise;anger
+Она не потосковала.;joy;anger
+Она процветала!;sadness;joy
+Не освежи?;surprise;surprise
+Радуй?;joy;joy
+Освежайся.;joy;surprise
+Казнись.;sadness;anger
+Она не негодовала.;joy;surprise
+Помрачи!;fear;joy
+Не злорадствуй?;surprise;anger
+Она не приунывала?;joy;surprise
+Она злобилась?;anger;anger
+Сломись?;surprise;surprise
+Не смущайся.;joy;sadness
+Она не разозлилась?;fear;anger
+Она не подружилась.;sadness;sadness
+Развлеки?;joy;surprise
+Она не стеснялась.;joy;anger
+Надейся.;joy;fear
+Радуй!;joy;joy
+Изматывай!;sadness;anger
+Она не промаялась!;joy;anger
+Она опасалась.;fear;fear
+Просияй.;joy;sadness
+Она озлила!;anger;surprise
+Не услаждайся?;sadness;surprise
+Не взбесись.;fear;anger
+Она ужаснулась!;fear;fear
+Озли?;anger;surprise
+Она не стосковалась!;joy;anger
+Она осерчала!;anger;anger
+Она не устыдилась!;joy;sadness
+Она перенервничала.;fear;sadness
+Взорвись?;surprise;anger
+Она погоревала?;sadness;surprise
+Не разозлись!;fear;anger
+Рассердись?;anger;anger
+Она струхнула!;fear;anger
+Она не помрачила.;joy;sadness
+Воскресай?;surprise;surprise
+Понравься!;joy;joy
+Она блаженствовала?;joy;joy
+Приободряйся.;joy;joy
+Труси.;fear;anger
+Она не удовлетворяла!;anger;anger
+Переволнуй.;fear;anger
+Разобидься.;sadness;anger
+Не взбадривайся.;sadness;anger
+Переволнуйся!;fear;anger
+Загорюй.;sadness;anger
+Она не стервенела.;joy;anger
+Она обеспокоилась!;fear;joy
+Она ужаснула.;fear;fear
+Не глуши?;surprise;anger
+Не пугай!;anger;fear
+Тревожься.;fear;fear
+Заскучай!;sadness;anger
+Не весели.;sadness;joy
+Не надоешь.;joy;sadness
+Сердись.;anger;sadness
+Не убойся?;surprise;anger
+Злей.;anger;anger
+Нарадуйся.;joy;anger
+Не расстраивайся?;joy;anger
+Не развлекись.;sadness;joy
+Она не расцветала?;surprise;surprise
+Она не злобствовала?;surprise;anger
+Убей?;anger;anger
+Она дивилась!;surprise;joy
+Не устрашайся?;surprise;anger
+Она не застращала?;surprise;surprise
+Она не приуныла!;joy;anger
+Она утомлялась.;sadness;sadness
+Не воодушевись.;sadness;joy
+Тяготи.;sadness;anger
+Она разгневала!;anger;anger
+Не поражай?;surprise;surprise
+Не захватывай?;surprise;surprise
+Она не закручинилась!;joy;anger
+Она не обижалась.;joy;anger
+Не струси!;joy;anger
+Она не недоумевала?;surprise;surprise
+Не переболей!;fear;anger
+Не удручай.;joy;sadness
+Она напугалась!;fear;fear
+Она тяготила!;sadness;sadness
+Не ободряйся!;sadness;anger
+Она тосковала!;sadness;anger
+Она не исстрадалась.;joy;sadness
+Ужасай?;fear;fear
+Промайся?;sadness;surprise
+Не раздражай!;anger;anger
+Она разочаровала!;sadness;sadness
+Не точи!;anger;anger
+Не серчай.;fear;anger
+Она не хлебнула!;anger;anger
+Серди!;anger;joy
+Она не побаивалась?;surprise;surprise
+Она не казнилась?;surprise;anger
+Не злорадствуй!;anger;anger
+Убивайся?;sadness;anger
+Испугайся.;fear;anger
+Растревожь?;fear;anger
+Она извелась?;sadness;surprise
+Она убила.;anger;sadness
+Не помучься!;joy;anger
+Она не истомилась?;surprise;surprise
+Рыдай?;sadness;surprise
+Сокрушайся?;sadness;anger
+Не скисай?;surprise;surprise
+Она подавляла!;anger;anger
+Она возмутила?;anger;anger
+Она не удручала?;surprise;surprise
+Она услаждалась.;joy;joy
+Не сокруши?;surprise;anger
+Она не взбодрилась.;sadness;anger
+Она конфузилась?;fear;anger
+Она не озлобила!;joy;anger
+Волнуйся?;fear;anger
+Она не позлорадствовала?;surprise;surprise
+Не никни!;joy;anger
+Не подави!;anger;anger
+Не помрачи!;joy;anger
+Не обрадуй!;sadness;joy
+Она не раздразнивала?;surprise;anger
+Она изумила?;surprise;surprise
+Она льстила.;joy;sadness
+Она недолюбливала!;anger;anger
+Она тушевалась!;fear;anger
+Она проплакала.;sadness;anger
+Она обозлила.;anger;anger
+Она не хмурилась.;joy;sadness
+Не разочаруй?;surprise;anger
+Не разъярись!;fear;anger
+Возрыдай!;sadness;anger
+Злись!;anger;anger
+Беспокойся!;fear;sadness
+Резвись!;joy;anger
+Она гневалась?;anger;anger
+Она не страшилась.;joy;fear
+Она не стыдилась!;joy;anger
+Она исстрадалась!;sadness;anger
+Окрылись.;joy;anger
+Порадуйся.;joy;joy
+Печалься.;sadness;sadness
+Не соскучься?;surprise;sadness
+Не растревожь!;anger;anger
+Не струхни.;joy;anger
+Не разозли!;fear;anger
+Она не поникла?;surprise;surprise
+Она не помрачила!;joy;anger
+Обомри.;fear;anger
+Раздосадуйся.;sadness;joy
+Не позабавься?;surprise;surprise
+Она помрачала.;sadness;sadness
+Она не переболела?;surprise;surprise
+Она приободрялась!;joy;joy
+Не волнуй!;anger;anger
+Глуши.;sadness;anger
+Позли.;anger;anger
+Она не угрюмела.;joy;sadness
+Не тяготи.;anger;sadness
+Она не устрашала!;joy;anger
+Не позабавься.;sadness;sadness
+Она не ужаснулась?;surprise;fear
+Умай.;sadness;anger
+Разгневайся?;anger;anger
+Позлись!;anger;anger
+Не посмейся?;surprise;joy
+Она не кручинилась!;joy;anger
+Она наскучила!;sadness;anger
+Не свирепей.;fear;anger
+Не казнись?;surprise;anger
+Она не пошутила!;sadness;joy
+Она не утомилась?;surprise;sadness
+Не ужаснись!;surprise;fear
+Жалей!;sadness;sadness
+Она не расцвела!;sadness;surprise
+Не надуйся.;anger;anger
+Помрачайся!;sadness;joy
+Она не переболела!;sadness;sadness
+Она не возвеселилась?;sadness;surprise
+Она возненавидела!;anger;anger
+Она ранила.;sadness;sadness
+Она не повеселилась!;sadness;joy
+Не напугайся?;surprise;fear
+Истерзайся!;sadness;anger
+Не разнервничайся!;joy;anger
+Не загорюй?;surprise;surprise
+Не встревожься.;joy;fear
+Она омрачилась.;sadness;sadness
+Она приободрялась?;joy;surprise
+Она не проклинала?;fear;anger
+Не коли?;surprise;surprise
+Она не гордилась?;sadness;surprise
+Сокрушайся!;sadness;anger
+Насмехайся?;surprise;surprise
+Она не фыркала?;surprise;surprise
+Она не сокрушила.;joy;anger
+Не взвой!;anger;anger
+Она не умаивала!;joy;anger
+Грусти.;sadness;sadness
+Не соси?;surprise;anger
+Изуми?;surprise;surprise
+Не рань?;surprise;anger
+Она не прискучивала!;joy;anger
+Она воскрешала!;joy;joy
+Пой!;joy;surprise
+Она обозлила?;anger;surprise
+Измочаливай.;sadness;anger
+Рань.;sadness;surprise
+Она измучилась?;sadness;sadness
+Она позлила.;anger;sadness
+Она освежилась!;joy;joy
+Не взволнуйся?;surprise;anger
+Она запугивала!;fear;anger
+Она подивилась?;surprise;surprise
+Не интересуйся!;anger;surprise
+Не осерчай!;fear;anger
+Она не обеспокоилась!;surprise;joy
+Она нервировала!;fear;anger
+Она не истосковалась?;surprise;surprise
+Она не понравилась!;anger;joy
+Приободряйся?;joy;anger
+Она обожала!;joy;joy
+Она обрадовала.;joy;joy
+Она не посмеивалась!;sadness;joy
+Пошути?;joy;surprise
+Она трусила!;fear;anger
+Встревожь.;fear;joy
+Она оплакала?;sadness;sadness
+Она не поплакала.;joy;sadness
+Она не струсила?;surprise;anger
+Не трепещи?;surprise;anger
+Она не возрадовалась.;sadness;anger
+Она сокрушалась.;sadness;sadness
+Унывай?;sadness;surprise
+Не погорюй!;joy;joy
+Она не воскресала?;surprise;surprise
+Она возликовала!;joy;anger
+Она волновала?;fear;fear
+Не насыщайся.;sadness;sadness
+Она не выстрадала!;anger;surprise
+Она ярилась?;anger;surprise
+Не осточертей!;anger;anger
+Она позабавилась?;joy;surprise
+Встряхивайся!;joy;joy
+Серди.;anger;sadness
+Переутоми!;sadness;anger
+Не невзлюби.;anger;sadness
+Она не разгневалась!;surprise;anger
+Прослезись.;sadness;anger
+Она пугнула!;fear;anger
+Она не восторгалась?;sadness;surprise
+Она смущалась.;fear;sadness
+Она ошеломила!;surprise;surprise
+Терроризируй.;anger;anger
+Она не перетерпела?;surprise;anger
+Тушуйся.;fear;joy
+Позлись?;anger;surprise
+Измочаливай!;anger;anger
+Отпугивай?;fear;anger
+Удивляй?;surprise;surprise
+Пригорюнься!;sadness;joy
+Не ужасни!;anger;fear
+Она тушевалась?;fear;surprise
+Повреди!;anger;anger
+Она тяготила?;surprise;anger
+Хихикай!;joy;anger
+Она не испугала?;surprise;fear
+Она разозлилась.;anger;anger
+Не понравься!;anger;joy
+Зли?;anger;surprise
+Отчаивайся?;sadness;anger
+Она надивилась?;surprise;surprise
+Она прискучила.;sadness;sadness
+Возмутись!;anger;surprise
+Она раздосадовала.;sadness;sadness
+Не прогневайся!;fear;anger
+Не оплакивай?;surprise;sadness
+Помрачай.;sadness;joy
+Она насладилась.;joy;joy
+Не истомись!;anger;sadness
+Она не обмирала!;surprise;anger
+Порадуйся?;joy;joy
+Она разобиделась.;sadness;anger
+Она гневалась!;anger;anger
+Она посетовала?;sadness;surprise
+Не стращай.;joy;sadness
+Она не раздражалась!;joy;anger
+Она не расстраивалась?;surprise;surprise
+Не приунывай.;joy;anger
+Она погневалась.;anger;anger
+Тоскуй!;sadness;anger
+Она разъярилась.;anger;anger
+Не изуми?;surprise;surprise
+Она погрустила!;sadness;joy
+Не замучивайся?;surprise;anger
+Она испугала.;fear;fear
+Не жги?;surprise;anger
+Она раздразнивала?;surprise;anger
+Изнервничайся?;fear;anger
+Она не возмущала?;surprise;anger
+Она не ужасалась!;surprise;fear
+Не надоедай.;anger;sadness
+Не унывай.;joy;sadness
+Не топай!;anger;anger
+Натерпись.;sadness;anger
+Не запугивай!;anger;anger
+Она не любовалась!;sadness;anger
+Она не озлобляла.;joy;anger
+Она заинтересовала?;joy;surprise
+Изматывайся.;sadness;anger
+Измотайся!;sadness;surprise
+Она не ободрялась?;surprise;anger
+Любуйся?;joy;joy
+Она поплакала?;sadness;anger
+Она не обмерла!;joy;anger
+Она тужила!;sadness;surprise
+Забойся!;fear;joy
+Пугай!;fear;surprise
+Она возмущала?;anger;anger
+Устрашай?;fear;anger
+Не изнуряй?;surprise;anger
+Она не позлорадствовала.;sadness;anger
+Она не трепетала?;surprise;surprise
+Она не раздосадовала?;surprise;anger
+Она не переутомила?;surprise;surprise
+Она позлила?;anger;surprise
+Она не истомилась!;joy;sadness
+Она не рассердилась!;joy;anger
+Не запугай?;surprise;anger
+Она не хмурилась!;anger;anger
+Воспрянь?;joy;surprise
+Не возненавидь!;fear;anger
+Не утомляй?;joy;anger
+Возмущайся?;anger;surprise
+Она умаивала!;sadness;surprise
+Она возвеселилась.;joy;joy
+Она не поощряла!;anger;anger
+Она не умаяла!;joy;anger
+Опасайся?;fear;fear
+Она сохла?;surprise;anger
+Не отпугивай!;anger;anger
+Не злись?;surprise;anger
+Она измоталась.;sadness;surprise
+Она огорчала!;sadness;sadness
+Она умаялась?;surprise;surprise
+Не расстраивайся!;joy;anger
+Она не изматывалась?;surprise;surprise
+Она не плавала?;surprise;surprise
+Она дулась!;sadness;anger
+Она не спугивала?;surprise;surprise
+Она упивалась?;surprise;anger
+Она не злила!;joy;anger
+Воскреси?;surprise;anger
+Удивись!;surprise;surprise
+Не раздражай?;surprise;anger
+Она потосковала?;sadness;anger
+Просияй!;joy;joy
+Она не посмеялась.;sadness;joy
+Она остолбенела?;surprise;anger
+Она не удручала!;joy;sadness
+Она серчала.;anger;anger
+Опостылей?;sadness;surprise
+Поверь?;surprise;surprise
+Не никни.;joy;anger
+Разъярись?;anger;anger
+Она не изматывалась!;joy;anger
+Она не потосковала!;joy;anger
+Она не угнетала.;joy;anger
+Обидь.;sadness;anger
+Она болела!;sadness;sadness
+Не волнуйся?;surprise;anger
+Она веселилась?;joy;joy
+Она разнервничалась.;fear;sadness
+Раздражись.;anger;anger
+Она затравила!;anger;surprise
+Она не сердилась?;fear;anger
+Она не застращала!;joy;anger
+Радуйся!;joy;joy
+Она не освежила!;sadness;surprise
+Она омрачилась!;sadness;sadness
+Она не кисла.;joy;anger
+Она не истосковалась!;joy;anger
+Она не мучилась!;joy;sadness
+Смутись.;fear;anger
+Разозли!;anger;anger
+Не развлекай!;sadness;joy
+Не надуйся?;surprise;surprise
+Она не торжествовала.;sadness;joy
+Она не оплакивала?;surprise;sadness
+Понервничай?;fear;surprise
+Удиви!;surprise;surprise
+Она не убивалась.;joy;anger
+Она не потосковала?;surprise;surprise
+Не растревоживай!;anger;anger
+Она подшучивала.;joy;anger
+Она запугивала.;fear;anger
+Она волновалась?;fear;fear
+Соси?;surprise;surprise
+Она не мучила?;fear;anger
+Она взбадривалась?;joy;anger
+Прискучь!;sadness;anger
+Она интересовалась!;joy;surprise
+Опасайся!;anger;fear
+Убивайся!;sadness;anger
+Не расцвети.;sadness;joy
+Она не стыдилась?;surprise;anger
+Она поволновалась.;fear;sadness
+Не погневайся!;fear;anger
+Она не позлилась!;joy;anger
+Не раздражайся!;fear;anger
+Она не изматывала!;joy;anger
+Она выматывала.;sadness;anger
+Не побойся!;joy;anger
+Она убивала?;fear;anger
+Истерзайся.;sadness;anger
+Изнури!;sadness;anger
+Осердись?;anger;surprise
+Не посмеивайся?;sadness;joy
+Она не трепетала!;surprise;anger
+Она соскучилась?;sadness;sadness
+Она паниковала?;fear;fear
+Она развеселилась.;joy;sadness
+Стоскуйся!;sadness;joy
+Она любила?;joy;joy
+Она вдохновлялась.;joy;joy
+Она не взбадривалась?;surprise;anger
+Она не дивила?;surprise;surprise
+Злись.;anger;anger
+Она не оплакала.;joy;sadness
+Она обеспокоила.;fear;joy
+Привязывайся?;surprise;anger
+Не подавляй!;anger;anger
+Она мучилась!;sadness;sadness
+Хмурься!;sadness;anger
+Не озлобляйся?;joy;anger
+Не разочаруй!;anger;anger
+Она не измотала!;joy;surprise
+Она не развеселила?;surprise;surprise
+Она насытилась!;joy;joy
+Она доставала!;anger;joy
+Не сдрейфи!;joy;anger
+Затрави?;anger;surprise
+Она не сломила!;joy;anger
+Гневайся.;anger;anger
+Она не озлобилась!;joy;anger
+Она не замучилась.;joy;sadness
+Она взбесилась?;anger;anger
+Она пугала!;fear;fear
+Балдей?;joy;surprise
+Серчай?;anger;surprise
+Не ликуй!;sadness;joy
+Она не мучилась?;surprise;sadness
+Она обожглась.;sadness;joy
+Уважай!;anger;joy
+Она не омрачила.;joy;sadness
+Затоскуй!;sadness;anger
+Она напугала!;fear;fear
+Она встревожилась.;surprise;fear
+Радуйся.;joy;joy
+Она не омрачала?;surprise;sadness
+Она злилась.;anger;anger
+Не беси.;anger;anger
+Она топала?;surprise;surprise
+Она стервенела!;anger;anger
+Она не сникала.;joy;sadness
+Содрогайся.;fear;anger
+Подивись?;surprise;surprise
+Она восторгалась.;joy;joy
+Она осточертела?;anger;surprise
+Не возрадуйся.;sadness;anger
+Она не прискучила?;surprise;surprise
+Она струсила?;fear;anger
+Она раздражалась!;anger;anger
+Не помучься?;surprise;anger
+Она не опечалила?;surprise;surprise
+Она не поплакала?;surprise;anger
+Ужасайся.;fear;fear
+Она не пуганула?;surprise;fear
+Она разозлила?;anger;anger
+Она привязывалась?;anger;surprise
+Она не замучивалась!;joy;anger
+Она стыдилась.;fear;anger
+Не восхищай?;surprise;surprise
+Огорчай?;sadness;surprise
+Она не осознавала!;anger;surprise
+Она не гневалась?;fear;anger
+Она любовалась?;joy;surprise
+Опечаль!;sadness;anger
+Никни?;sadness;surprise
+Не вымотай?;surprise;anger
+Она радовала?;joy;joy
+Поволнуйся!;fear;anger
+Она устрашилась.;fear;sadness
+Не растревоживай?;surprise;anger
+Она стосковалась!;sadness;anger
+Удовлетворяй?;joy;joy
+Она не ликовала.;sadness;sadness
+Она не напугала.;joy;fear
+Не наскучь!;joy;anger
+Она растревоживала.;surprise;anger
+Она презирала?;surprise;anger
+Она измотала?;sadness;surprise
+Она не горевала.;joy;sadness
+Она не сконфузилась.;joy;sadness
+Запугивай?;fear;anger
+Она рассерчала?;anger;anger
+Не взбеленись!;anger;anger
+Она окрылила!;joy;anger
+Она не поверила?;surprise;surprise
+Она захандрила?;sadness;anger
+Она подивилась!;surprise;surprise
+Ужасни!;fear;fear
+Она раздражилась?;anger;anger
+Она не посмеялась!;sadness;joy
+Она испугалась.;fear;fear
+Возрыдай.;sadness;anger
+Она обожала.;joy;joy
+Она подружилась!;joy;joy
+Перепугай?;fear;surprise
+Подавляй!;anger;joy
+Она не тревожилась?;surprise;fear
+Она злила.;anger;anger
+Сохни?;surprise;surprise
+Взбесись?;anger;anger
+Она не заволновалась?;surprise;surprise
+Она не восторгала!;anger;joy
+Она надивилась.;surprise;sadness
+Она восхитилась!;joy;joy
+Стоскуйся?;sadness;anger
+Она светилась.;joy;joy
+Не опечалься?;joy;anger
+Не досадуй?;surprise;anger
+Поражайся.;surprise;joy
+Она мечтала!;joy;joy
+Она удивила.;surprise;surprise
+Она не озлобила?;fear;anger
+Она не переволновалась?;surprise;surprise
+Напугай!;fear;joy
+Она обидела.;sadness;anger
+Она стращала.;fear;anger
+Она посмеивалась.;joy;joy
+Она не поощряла.;anger;anger
+Она помрачила.;sadness;sadness
+Не измайся.;joy;anger
+Устыдись?;fear;anger
+Не бойся?;surprise;anger
+Она не ненавидела.;joy;anger
+Подосадуй?;sadness;surprise
+Она не травмировала!;anger;sadness
+Не встряхнись!;sadness;anger
+Она загрустила?;sadness;surprise
+Она развлекла.;joy;joy
+Возликуй!;joy;surprise
+Она не подавила!;joy;anger
+Она умаялась.;sadness;surprise
+Она восхищала?;joy;surprise
+Скучай!;sadness;sadness
+Она не погоревала?;surprise;surprise
+Она не восхищалась?;surprise;surprise
+Она печалилась?;sadness;sadness
+Она угнетала.;sadness;anger
+Она не обалдевала?;surprise;surprise
+Она не досадовала.;joy;sadness
+Она не приободрялась?;surprise;surprise
+Она насмехалась!;joy;joy
+Изумись!;surprise;joy
+Она воскресила!;surprise;joy
+Взволнуй.;fear;anger
+Она поражала!;surprise;surprise
+Опостылей!;sadness;anger
+Она не поражала?;surprise;surprise
+Она озлобляла?;surprise;anger
+Посмейся!;joy;joy
+Умай!;sadness;anger
+Не погрустней.;joy;anger
+Она не разочаровалась.;joy;sadness
+Воодушевись.;joy;joy
+Она не освежала.;sadness;sadness
+Не порадуйся!;sadness;joy
+Не разгневай?;surprise;anger
+Не погрусти!;joy;anger
+Недолюбливай?;anger;anger
+Она жгла!;joy;anger
+Не встряхнись?;surprise;anger
+Она захандрила!;sadness;anger
+Она не наскучивала?;surprise;surprise
+Она обозлилась!;anger;anger
+Она потрясла.;fear;surprise
+Подосадуй!;sadness;anger
+Разозли.;anger;anger
+Она не омрачилась?;surprise;sadness
+Взорви!;anger;anger
+Она рассвирепела?;anger;anger
+Она выматывала!;sadness;anger
+Не перетрусь!;joy;anger
+Не вдохновляйся!;sadness;joy
+Она не обозлилась.;joy;anger
+Она не истерзалась.;joy;anger
+Не цвети?;surprise;surprise
+Она проклинала.;anger;anger
+Она рассвирепела.;anger;anger
+Соси!;anger;anger
+Не дрожи!;anger;anger
+Осерчай.;anger;surprise
+Она не помрачала!;anger;anger
+Взволнуй!;fear;anger
+Удиви?;surprise;surprise
+Она не освежалась!;anger;joy
+Она встревожилась?;fear;fear
+Расстройся?;sadness;surprise
+Не майся?;surprise;surprise
+Не обожгись!;fear;joy
+Она не взгрустнула.;joy;anger
+Не осерчай.;fear;anger
+Она раздразнила?;surprise;anger
+Угнетай.;sadness;anger
+Изнервничайся.;fear;sadness
+Не мечтай!;anger;joy
+Злобься.;anger;anger
+Не опасайся?;surprise;fear
+Наскучь.;sadness;anger
+Она надоела!;anger;sadness
+Не насыться?;surprise;surprise
+Она разочаровалась!;sadness;sadness
+Она не жалела!;joy;sadness
+Не пригорюнься.;joy;anger
+Она устрашала?;fear;surprise
+Она кручинилась.;sadness;joy
+Она переживала!;fear;sadness
+Устраши.;fear;anger
+Она разочаровалась.;sadness;sadness
+Она дрейфила!;fear;anger
+Она не сникла.;joy;sadness
+Не воскрешай!;anger;joy
+Нервируй?;fear;surprise
+Она не разнервничалась!;joy;anger
+Она не проклинала.;joy;anger
+Она тосковала.;sadness;sadness
+Не восхити!;sadness;joy
+Она не веселила?;sadness;surprise
+Радуйся?;joy;joy
+Терзайся!;sadness;anger
+Не отчайся.;joy;anger
+Сломи.;anger;anger
+Изведись!;sadness;anger
+Она замучилась?;surprise;anger
+Не рассердись!;fear;anger
+Она не огорчилась.;joy;sadness
+Она не испугалась!;joy;fear
+Не приуной!;joy;anger
+Рассерди?;anger;anger
+Она возвеселилась!;joy;joy
+Не гневи?;surprise;anger
+Возвеселись?;joy;surprise
+Она не печалила.;joy;sadness
+Удовольствуйся?;joy;joy
+Прискучивай.;sadness;anger
+Она не надивилась!;sadness;anger
+Она перепугала!;fear;anger
+Она не переволновала!;joy;anger
+Она освещала?;surprise;surprise
+Не улыбайся.;sadness;joy
+Она не настрадалась!;anger;anger
+Не труси!;joy;anger
+Стервеней.;anger;anger
+Она не стервенела!;joy;anger
+Она веселила.;joy;joy
+Рань!;sadness;surprise
+Загорюй!;sadness;joy
+Она не рыдала.;joy;sadness
+Изной.;sadness;surprise
+Не удручай?;surprise;surprise
+Не разревись!;anger;anger
+Злобствуй.;anger;anger
+Промайся.;sadness;anger
+Взбелени?;anger;anger
+Не убойся.;joy;anger
+Она не запугала?;surprise;surprise
+Она не жгла?;surprise;anger
+Обидь!;sadness;anger
+Она не встревожила!;joy;fear
+Озлобляй?;anger;surprise
+Она не удручила?;surprise;surprise
+Утоми?;surprise;surprise
+Не погрустней!;joy;anger
+Не умай!;anger;anger
+Не возмущайся.;anger;anger
+Она взвыла?;sadness;anger
+Отчайся!;sadness;joy
+Терпи!;anger;anger
+Она не топала?;surprise;surprise
+Она смела!;anger;anger
+Она не грустила?;surprise;sadness
+Она не подшучивала.;sadness;anger
+Не серди.;fear;anger
+Она не устыдилась?;joy;surprise
+Она не обмерла.;joy;sadness
+Она не дулась.;joy;anger
+Она подосадовала?;sadness;surprise
+Не пугани?;surprise;fear
+Не раздосадуй?;surprise;anger
+Она не позлила?;surprise;surprise
+Замучивайся.;sadness;anger
+Она соскучилась.;sadness;sadness
+Не люби?;sadness;joy
+Она не раздразнивала!;anger;anger
+Она изводилась.;sadness;sadness
+Она не тосковала.;joy;anger
+Изматывайся?;sadness;anger
+Не оплакивай.;joy;sadness
+Не раздосадуйся.;joy;joy
+Не страдай!;joy;sadness
+Изнемогай.;sadness;anger
+Она помрачалась?;sadness;sadness
+Она нарадовалась.;joy;anger
+Не пошути?;surprise;anger
+Она вспылила!;anger;anger
+Не жги!;fear;anger
+Стервеней?;anger;surprise
+Мучься.;sadness;anger
+Она разревелась.;sadness;joy
+Не кисни.;joy;anger
+Не обалдей?;anger;surprise
+Не развеселись?;sadness;surprise
+Не опечаливай?;joy;anger
+Она не удивляла.;sadness;surprise
+Она не раздражала.;joy;anger
+Не рассерчай!;fear;anger
+Она воскресила?;surprise;surprise
+Не исстрадайся?;surprise;anger
+Она не смущала?;surprise;anger
+Не паникуй?;surprise;fear
+Она не блаженствовала?;surprise;sadness
+Она грустила?;sadness;sadness
+Она истосковалась!;sadness;sadness
+Не возликуй?;sadness;surprise
+Она недолюбливала?;anger;anger
+Она вымотала?;sadness;anger
+Не озлобляй!;anger;anger
+Она сердилась.;anger;anger
+Она не замучивалась?;surprise;anger
+Не замучивайся.;joy;anger
+Она преследовала!;fear;anger
+Окрысься.;anger;anger
+Она страшила?;fear;fear
+Она не взволновала!;sadness;surprise
+Погрустней.;sadness;sadness
+Не соси!;anger;anger
+Она гневила.;anger;anger
+Она умаивала.;sadness;surprise
+Она восхищалась?;joy;surprise
+Не леденей?;surprise;surprise
+Она не озлилась.;joy;sadness
+Никни!;sadness;anger
+Она не рассмешила.;sadness;joy
+Не переживай?;surprise;sadness
+Она разгневала?;anger;anger
+Улыбайся!;joy;joy
+Она не подружилась!;sadness;joy
+Она не озлоблялась.;joy;anger
+Обидь?;sadness;anger
+Не затоскуй!;joy;anger
+Она не ужаснула?;surprise;fear
+Она погневалась?;anger;anger
+Она не терроризировала?;surprise;anger
+Она надеялась?;surprise;surprise
+Не забойся!;joy;anger
+Не отчайся!;joy;anger
+Не заледеней?;surprise;surprise
+Не перенервничай!;fear;anger
+Она пошутила?;surprise;surprise
+Не омрачи?;surprise;sadness
+Она взбесила!;anger;anger
+Не развлекись?;surprise;surprise
+Она приуныла?;sadness;surprise
+Она изумлялась!;surprise;surprise
+Не рассерди!;fear;anger
+Она не помучилась.;joy;sadness
+Не мучь!;sadness;anger
+Нарадуйся!;joy;anger
+Она льстила!;joy;anger
+Она не рассмеялась!;sadness;joy
+Она не окрылилась!;sadness;anger
+Не повеселей?;sadness;joy
+Свирепей!;anger;joy
+Она процветала?;joy;surprise
+Она не осточертела!;joy;anger
+Не сторонись!;anger;anger
+Она не возмутилась.;joy;anger
+Окрыли?;surprise;surprise
+Она не раздосадовала.;joy;sadness
+Не процветай.;sadness;joy
+Она расцветала?;joy;surprise
+Не радуй!;sadness;joy
+Она ошеломила?;surprise;surprise
+Дрожи!;fear;anger
+Она озлобилась?;anger;anger
+Не озлись.;fear;surprise
+Терзайся?;sadness;anger
+Разгневай?;anger;anger
+Она улыбалась.;joy;joy
+Возмущай?;surprise;surprise
+Она гордилась?;joy;joy
+Она потосковала.;sadness;anger
+Не улыбайся!;sadness;joy
+Позабавься.;joy;anger
+Она загрустила.;sadness;sadness
+Она измочаливала!;sadness;surprise
+Волнуйся.;fear;anger
+Взъярись?;anger;anger
+Не тревожь?;surprise;fear
+Не сожалей!;joy;sadness
+Она осознавала?;surprise;surprise
+Она не любила.;anger;sadness
+Изной!;sadness;surprise
+Расстраивайся!;sadness;anger
+Не пьяней!;anger;anger
+Не насладись!;sadness;joy
+Хихикай.;joy;anger
+Она не раздосадовалась.;joy;sadness
+Она не ужаснулась.;joy;fear
+Она не встревожилась!;joy;fear
+Не обидься.;fear;anger
+Не гневайся!;fear;anger
+Она не резвилась?;surprise;surprise
+Оплакивай.;sadness;anger
+Она не раздосадовалась?;surprise;anger
+Она резвилась.;joy;anger
+Бойся.;fear;anger
+Она не рассердила.;joy;anger
+Она взбесилась.;anger;anger
+Она надеялась!;joy;joy
+Она не смутилась?;surprise;surprise
+Не обеспокойся.;joy;sadness
+Она скучала.;sadness;sadness
+Она позлила!;anger;anger
+Она изнурила?;sadness;anger
+Не восхити?;sadness;surprise
+Не улыбнись.;sadness;joy
+Она утомила?;sadness;sadness
+Не утоми?;surprise;sadness
+Не приободряйся!;sadness;anger
+Она не сконфузилась?;surprise;sadness
+Она рассерчала.;anger;anger
+Не достань?;surprise;surprise
+Не измучься.;joy;sadness
+Не огорчись!;joy;sadness
+Она не позлорадствовала!;joy;anger
+Она измаялась!;sadness;surprise
+Насладись.;joy;joy
+Потоскуй?;sadness;surprise
+Она рассмеялась!;joy;joy
+Она прогневалась!;anger;anger
+Не проплачь!;joy;anger
+Не бойся!;joy;anger
+Она разъярила?;anger;surprise
+Она вдохновлялась?;joy;surprise
+Не обрадуй?;sadness;joy
+Она забоялась.;fear;anger
+Она не погневалась!;surprise;anger
+Затоскуй.;sadness;anger
+Не окрысься!;anger;anger
+Освежай!;joy;surprise
+Не разочаруйся.;joy;sadness
+Не хихикай?;surprise;anger
+Она разревелась?;sadness;surprise
+Умай?;surprise;surprise
+Не настрадайся!;anger;anger
+Не помрачай?;surprise;anger
+Она светилась?;surprise;surprise
+Истоскуйся?;sadness;anger
+Она растревожила.;fear;anger
+Она не изумлялась?;surprise;surprise
+Не струси?;surprise;anger
+Изумляйся.;surprise;joy
+Не потряси?;surprise;surprise
+Резвись?;joy;anger
+Страши?;fear;surprise
+Не загорюй!;joy;surprise
+Она не осерчала!;joy;anger
+Она не оплакивала.;joy;sadness
+Она не освежилась?;surprise;surprise
+Она не скучала?;surprise;sadness
+Не презирай.;fear;anger
+Она горевала.;sadness;sadness
+Восхитись?;joy;surprise
+Она не возмутила.;joy;anger
+Она не упилась?;surprise;surprise
+Развеселись!;joy;anger
+Она обиделась!;sadness;anger
+Раздави.;anger;anger
+Она паниковала!;fear;anger
+Не раздразнивай!;anger;anger
+Она не окрысилась!;joy;anger
+Бесись?;anger;anger
+Не взгрустни!;joy;anger
+Ненавидь?;anger;anger
+Она злела.;anger;anger
+Она отчаялась?;sadness;sadness
+Разъяри?;anger;anger
+Она недоумевала?;surprise;surprise
+Она не восхищала!;sadness;joy
+Не подшучивай.;sadness;anger
+Удиви.;sadness;surprise
+Горюй.;sadness;joy
+Она не освежалась.;sadness;sadness
+Она не вспылила?;fear;surprise
+Вознегодуй!;anger;anger
+Она не обожала.;sadness;joy
+Она смела.;anger;anger
+Она закручинилась.;sadness;anger
+Восхищай?;joy;sadness
+Она поникла?;sadness;surprise
+Она встряхивалась?;surprise;surprise
+Не расцветай?;surprise;surprise
+Она помрачалась!;sadness;joy
+Рассерчай!;anger;anger
+Она захватывала?;fear;surprise
+Она устрашалась?;fear;surprise
+Она переволновала?;fear;anger
+Убей!;anger;anger
+Она не рассвирепела.;joy;anger
+Она не домучилась!;surprise;sadness
+Не подавляй?;surprise;anger
+Она не заинтересовала!;anger;surprise
+Она жалела!;sadness;sadness
+Подави.;anger;joy
+Не обомри.;joy;anger
+Не изнуряй.;joy;anger
+Она изнуряла!;sadness;anger
+Не стоскуйся!;joy;anger
+Она не закручинилась.;joy;anger
+Она не возмутилась?;surprise;anger
+Надивись.;surprise;anger
+Она не освещала?;surprise;surprise
+Она не убивала!;anger;anger
+Она посмеивалась?;joy;joy
+Она страдала!;sadness;sadness
+Не поражайся!;joy;surprise
+Не раздражись.;fear;anger
+Она не грустила!;joy;sadness
+Не гневайся.;fear;anger
+Не разгневайся!;fear;anger
+Не прискучивай?;surprise;anger
+Поникни!;sadness;anger
+Она не кисла!;joy;anger
+Она не побоялась.;joy;anger
+Она не хандрила?;surprise;surprise
+Не восторгай?;sadness;surprise
+Она поощряла?;joy;joy
+Она не трусила.;joy;anger
+Наслаждайся!;joy;joy
+Поразись?;joy;surprise
+Она просияла.;joy;sadness
+Она взбадривалась!;joy;joy
+Устыдись.;fear;anger
+Конфузься.;fear;anger
+Она не озлобляла!;joy;anger
+Она не гневалась!;joy;anger
+Она настрадалась.;sadness;joy
+Она не натерпелась!;joy;anger
+Она не волновалась!;joy;fear
+Погорюй?;sadness;surprise
+Не переверни!;anger;anger
+Омрачайся?;sadness;surprise
+Мучься!;sadness;anger
+Она утомилась!;sadness;sadness
+Не обожай?;sadness;joy
+Она не развлеклась?;surprise;surprise
+Взъярись.;anger;anger
+Она пуганула!;fear;fear
+Она оплакивала.;sadness;sadness
+Она отпугивала.;fear;fear
+Забеспокойся.;fear;anger
+Она не поразилась?;surprise;surprise
+Она горевала!;sadness;sadness
+Она не изнемогала?;surprise;surprise
+Она остолбенела!;fear;anger
+Не переутоми?;surprise;anger
+Она не мечтала?;surprise;surprise
+Она не осточертела.;joy;anger
+Не свирепей!;anger;anger
+Она не умаяла?;surprise;surprise
+Насыться?;surprise;surprise
+Не погрусти.;joy;anger
+Она не развеселилась.;sadness;sadness
+Не обожгись?;surprise;joy
+Не удивляйся!;anger;surprise
+Она не упивалась?;surprise;anger
+Не зли?;surprise;anger
+Она перепугала?;fear;anger
+Она не приободрилась.;sadness;sadness
+Она сердила?;anger;anger
+Взбесись!;anger;anger
+Не нарадуйся?;surprise;anger
+Хвати?;surprise;surprise
+Она растревоживала!;fear;anger
+Она не побоялась?;surprise;anger
+Преследуй?;surprise;anger
+Она не заледенела!;joy;anger
+Она не унывала.;joy;sadness
+Она не сдрейфила!;joy;anger
+Не пригорюнься!;joy;anger
+Перетревожь?;fear;anger
+Не подружись?;surprise;surprise
+Она боялась?;fear;fear
+Надоешь.;sadness;anger
+Не изматывайся.;joy;anger
+Она изводилась?;sadness;surprise
+Она не перетрусила!;joy;anger
+Разочаруй.;sadness;sadness
+Она не восхищала?;surprise;surprise
+Она не застращала.;joy;sadness
+Не изной?;surprise;surprise
+Не ужаснись?;surprise;fear
+Не пой?;surprise;surprise
+Смущайся?;fear;sadness
+Не измотай?;surprise;surprise
+Не печаль.;joy;sadness
+Она не поощряла?;surprise;surprise
+Упивайся.;anger;anger
+Развлекайся.;joy;anger
+Она не воспрянула.;sadness;anger
+Она не воспрянула?;surprise;surprise
+Она осердилась!;anger;anger
+Она не тосковала!;joy;anger
+Не убивайся?;surprise;anger
+Рассмейся.;joy;anger
+Она освещала!;joy;joy
+Она тревожилась.;fear;fear
+Она возмущалась!;anger;anger
+Умаивай.;sadness;anger
+Она бесила!;anger;anger
+Она освежила?;joy;surprise
+Она не блаженствовала.;sadness;sadness
+Расцветай.;joy;joy
+Она взорвала?;surprise;surprise
+Она презирала!;anger;anger
+Не застращай?;surprise;anger
+Она устрашила!;fear;anger
+Она не загоревала!;joy;anger
+Беси!;anger;anger
+Не угрожай?;fear;fear
+Она не насыщалась!;sadness;anger
+Возненавидь?;anger;surprise
+Устраши!;fear;anger
+Она не возвеселилась.;sadness;sadness
+Не побойся?;surprise;anger
+Она расцвела.;joy;joy
+Она просияла?;surprise;surprise
+Не цвети!;sadness;anger
+Не терроризируй.;sadness;anger
+Она удивилась?;surprise;surprise
+Прогневай!;anger;anger
+Сохни!;anger;anger
+Изводись?;sadness;surprise
+Она не измоталась?;surprise;surprise
+Остолбеней!;anger;anger
+Обеспокойся.;fear;sadness
+Она не удовлетворяла?;sadness;surprise
+Льсти.;joy;sadness
+Она удовольствовалась.;joy;joy
+Болей?;surprise;sadness
+Она не дрейфила.;joy;sadness
+Она не остолбенела!;anger;anger
+Не сокрушайся.;joy;anger
+Испугай.;fear;anger
+Не озли!;anger;anger
+Не устрашай!;surprise;anger
+Не предвкушай?;surprise;surprise
+Она сердилась!;anger;anger
+Она не пугала.;joy;fear
+Не тушуйся!;joy;anger
+Она не возненавидела!;joy;anger
+Подшучивай!;joy;joy
+Она не позабавилась?;sadness;surprise
+Возмущай!;anger;anger
+Она не прискучивала?;joy;surprise
+Весели!;joy;joy
+Она не взбадривалась!;sadness;anger
+Она мучила.;sadness;sadness
+Она понравилась?;surprise;joy
+Она не разочаровала.;joy;sadness
+Она не беспокоилась?;surprise;fear
+Не раздражайся?;surprise;anger
+Она удовольствовалась?;joy;joy
+Она не ярилась!;joy;surprise
+Она не измоталась!;joy;surprise
+Она не побаивалась!;joy;anger
+Обозли.;anger;joy
+Озлись.;anger;sadness
+Не рассерди.;joy;anger
+Омрачай?;sadness;surprise
+Не невзлюби!;fear;anger
+Переболей.;sadness;anger
+Она закручинилась?;sadness;surprise
+Не разнервничайся.;joy;sadness
+Она не поднимала?;surprise;surprise
+Она не бесилась!;joy;anger
+Она не расстроила!;joy;sadness
+Не рассерчай.;fear;anger
+Она не заскучала!;joy;anger
+Она переживала.;fear;sadness
+Ужаснись!;fear;fear
+Она не опупела?;anger;surprise
+Она не маялась?;surprise;surprise
+Она оплакала!;sadness;sadness
+Она не волновала!;anger;fear
+Она цвела!;joy;anger
+Содрогайся!;fear;anger
+Процветай?;joy;surprise
+Выстрадай?;sadness;surprise
+Она не туманилась?;surprise;surprise
+Не перепугайся?;surprise;anger
+Она не умаяла.;joy;anger
+Расстраивай.;sadness;anger
+Не стервеней!;anger;anger
+Она удивила?;surprise;surprise
+Она позлорадствовала!;anger;anger
+Она злорадствовала?;anger;anger
+Опупей?;surprise;surprise
+Она не взбеленила!;joy;anger
+Она не перевернула?;surprise;surprise
+Она ободрилась!;joy;joy
+Она не вытерпела?;surprise;surprise
+Она восторгала!;joy;joy
+Она ранила?;surprise;sadness
+Не убей!;fear;anger
+Она не разъярилась!;surprise;anger
+Не огорчайся?;surprise;sadness
+Окрысься?;anger;anger
+Не вспыли?;surprise;surprise
+Она не изнывала.;joy;sadness
+Она изнуряла.;sadness;sadness
+Не прискучь!;anger;anger
+Не хмурься?;surprise;anger
+Она надулась?;surprise;surprise
+Она не потрясла!;anger;surprise
+Она болела?;surprise;sadness
+Она не просияла.;sadness;sadness
+Не промайся!;joy;anger
+Не сохни!;joy;anger
+Она обозлилась.;anger;anger
+Рассердись.;anger;anger
+Мечтай!;joy;joy
+Она не смутилась.;joy;sadness
+Она не поплакала!;joy;anger
+Не обижайся!;joy;anger
+Она разозлила.;anger;anger
+Не приунывай!;joy;anger
+Она приободрилась?;joy;surprise
+Она разгневала.;anger;anger
+Она не подступала.;fear;anger
+Она насыщалась!;joy;joy
+Озлобляйся!;anger;joy
+Не удовлетворяй!;anger;anger
+Люби?;surprise;joy
+Она озлилась!;anger;anger
+Обижайся.;sadness;anger
+Она не нарадовалась.;joy;anger
+Опьяней?;surprise;surprise
+Напугайся?;fear;surprise
+Не негодуй.;joy;anger
+Она изводилась!;sadness;anger
+Не дави.;sadness;sadness
+Рассмейся?;joy;anger
+Она обожглась?;fear;joy
+Не перенервничай?;surprise;anger
+Тужи!;sadness;surprise
+Она посмеялась.;joy;joy
+Она проплакала!;sadness;anger
+Не освежай?;surprise;surprise
+Она не терзалась?;joy;surprise
+Она не развлекла?;sadness;surprise
+Она не взъярилась!;surprise;anger
+Она погрустила.;sadness;sadness
+Изнуряй?;sadness;anger
+Она освежилась?;surprise;surprise
+Не ужасни?;surprise;fear
+Не приободрись?;surprise;anger
+Она разозлилась?;anger;anger
+Возмути.;anger;fear
+Она не возмутила?;surprise;anger
+Не волнуйся.;joy;joy
+Она не прискучила.;joy;sadness
+Она сожалела!;sadness;sadness
+Не упивайся.;sadness;anger
+Она не раздражилась.;joy;anger
+Она не пьянела!;anger;anger
+Опостылей.;sadness;anger
+Не взорвись!;anger;anger
+Она сдрейфила?;fear;anger
+Она не утомила!;joy;sadness
+Она не злорадствовала!;joy;anger
+Не помрачись?;surprise;anger
+Не грусти!;joy;sadness
+Не светись.;sadness;sadness
+Она раздосадовала?;anger;anger
+Сникай?;sadness;surprise
+Подиви!;surprise;anger
+Не рыдай!;anger;anger
+Она не ободрилась?;sadness;surprise
+Трепещи?;fear;anger
+Прогневай?;anger;anger
+Не удовлетворяйся.;sadness;anger
+Не омрачайся!;joy;sadness
+Не пригорюнься?;surprise;surprise
+Страши.;fear;fear
+Она не злорадствовала.;joy;anger
+Не восхитись?;surprise;surprise
+Она не подбодрилась.;joy;anger
+Воскрешай?;surprise;anger
+Она не восторгала?;surprise;surprise
+Она приуныла.;sadness;sadness
+Она рассвирепела!;anger;anger
+Воскресни?;surprise;anger
+Она боялась.;fear;fear
+Сникни?;sadness;surprise
+Она удручила!;sadness;sadness
+Она не посетовала.;joy;surprise
+Не помрачайся.;joy;sadness
+Она устрашалась!;fear;anger
+Она не волновала?;surprise;surprise
+Пугайся?;fear;surprise
+Не отчаивайся!;joy;anger
+Проплачь!;sadness;anger
+Она не леденила?;surprise;surprise
+Она разволновала?;fear;anger
+Не рань!;fear;anger
+Не погрустней?;joy;surprise
+Настрадайся!;sadness;anger
+Она не опечалилась.;joy;sadness
+Не стесняйся?;surprise;anger
+Она не намучилась!;anger;anger
+Она улыбнулась?;joy;joy
+Переволнуйся?;fear;anger
+Она омрачала?;sadness;sadness
+Она не предвкушала.;sadness;joy
+Она изумила.;surprise;joy
+Не льсти.;anger;anger
+Она не переволновала?;surprise;anger
+Она не трепетала.;sadness;sadness
+Она исстрадалась?;sadness;surprise
+Окрыли!;joy;anger
+Она подшучивала!;joy;joy
+Она смутилась.;sadness;surprise
+Она обалдела?;surprise;surprise
+Устыдись!;anger;anger
+Она не дивилась!;anger;anger
+Позабавься?;joy;anger
+Огорчайся?;sadness;surprise
+Она не разъярилась?;fear;surprise
+Она дрожала!;fear;anger
+Досадуй!;sadness;anger
+Она не расстраивала.;joy;sadness
+Сникни.;sadness;sadness
+Она удовлетворялась.;joy;joy
+Она не раздавила?;surprise;surprise
+Смущай.;fear;sadness
+Она убоялась.;fear;anger
+Она озлобилась.;anger;anger
+Расстраивай?;sadness;anger
+Сломись!;anger;anger
+Она трепетала!;fear;joy
+Она дивила!;surprise;joy
+Она пугалась?;fear;fear
+Она вознегодовала?;anger;surprise
+Она предвкушала?;joy;surprise
+Надоедай?;sadness;surprise
+Не возрыдай?;surprise;anger
+Она не выматывала!;joy;anger
+Не сникни.;joy;anger
+Она не насытилась.;sadness;sadness
+Она не изнемогла!;joy;anger
+Она страдала?;sadness;sadness
+Она не плакала.;joy;sadness
+Взорвись!;anger;anger
+Она нервировала.;fear;fear
+Развлекись.;joy;anger
+Торжествуй.;joy;anger
+Она не умаивала.;joy;anger
+Она сломила.;sadness;sadness
+Гнети.;anger;anger
+Она не насладилась.;sadness;joy
+Она изумляла.;surprise;surprise
+Она не прогневала!;joy;anger
+Она не прогневалась.;joy;anger
+Не омрачи!;anger;sadness
+Она гнела.;anger;anger
+Тревожься?;fear;fear
+Она подступала?;surprise;surprise
+Она не вымотала?;surprise;anger
+Измочаль.;anger;anger
+Она обмирала.;sadness;sadness
+Она не погоревала!;joy;anger
+Она переутомляла?;surprise;surprise
+Она не насладилась?;sadness;surprise
+Обеспокойся?;fear;anger
+Не пугай?;surprise;fear
+Не взгрустни.;joy;anger
+Взорвись.;anger;anger
+Сторонись?;fear;surprise
+Она не изумляла.;sadness;surprise
+Она не раздразнила?;surprise;anger
+Она не наслаждалась!;sadness;joy
+Сдрейфи?;fear;surprise
+Не осердись.;fear;anger
+Она не напугалась?;surprise;fear
+Она не изумила!;sadness;surprise
+Не взбодрись!;sadness;anger
+Паникуй?;fear;surprise
+Она омрачалась.;sadness;sadness
+Не поражай!;sadness;surprise
+Она обрадовала?;joy;joy
+Не восторгайся?;sadness;joy
+Она сторонилась.;fear;sadness
+Она не расстроилась?;joy;sadness
+Травмируй?;anger;anger
+Не конфузься?;surprise;anger
+Не просияй!;sadness;anger
+Не взъярись.;fear;anger
+Не унывай?;surprise;sadness
+Перетревожь.;fear;anger
+Не угнетай?;surprise;anger
+Она возмущалась?;anger;anger
+Она разочаровала.;sadness;sadness
+Удовлетворяйся.;joy;joy
+Она расстроилась!;sadness;sadness
+Она развлеклась?;joy;joy
+Она воскрешала?;surprise;surprise
+Взбеленись?;anger;anger
+Она не замучилась!;joy;anger
+Она сломила!;joy;anger
+Она вытерпела?;surprise;anger
+Разъяри!;anger;anger
+Не озлись!;fear;surprise
+Не раздразни.;fear;anger
+Уважай?;surprise;surprise
+Не омрачай.;joy;sadness
+Она воодушевилась?;joy;joy
+Переутоми.;sadness;sadness
+Застращай!;fear;anger
+Не отчайся?;surprise;surprise
+Она не мучила!;joy;anger
+Ободрись.;joy;anger
+Не домучься.;joy;anger
+Не обеспокой?;surprise;surprise
+Она переутомила!;anger;anger
+Она раздражала.;anger;anger
+Она не переживала?;surprise;sadness
+Она бесилась?;anger;anger
+Она подавила?;anger;anger
+Она не скорбела.;joy;sadness
+Не опьяней!;anger;anger
+Она не порадовалась?;sadness;surprise
+Она смущала?;fear;anger
+Она не огорчала?;surprise;sadness
+Она не изныла?;surprise;surprise
+Она сникла!;sadness;anger
+Кисни!;sadness;anger
+Она погневалась!;anger;anger
+Она перетрусила?;fear;anger
+Опечалься!;sadness;anger
+Не намучься.;joy;anger
+Она не обрадовала.;sadness;joy
+Рассерди.;anger;anger
+Она не исстрадалась!;anger;anger
+Не изнемоги?;surprise;surprise
+Приободрись.;joy;anger
+Не обрадуйся.;sadness;joy
+Не дуйся!;joy;anger
+Не удовлетворяй?;sadness;anger
+Не позабавься!;sadness;joy
+Она взъярилась!;anger;joy
+Она не развлекалась?;sadness;surprise
+Она мучилась?;sadness;sadness
+Она подавляла.;anger;anger
+Она не пугала?;surprise;fear
+Она улыбалась!;joy;joy
+Она не веселилась?;sadness;surprise
+Она не невзлюбила!;joy;anger
+Она не омрачила!;joy;sadness
+Не окрылись!;sadness;anger
+Она тужила?;sadness;surprise
+Она не изнемогла.;joy;sadness
+Она пугалась!;fear;fear
+Казнись?;surprise;anger
+Не казнись.;joy;anger
+Она не помрачилась!;surprise;sadness
+Она не намыкалась?;surprise;surprise
+Она не сохла!;anger;anger
+Она не взгрустнула!;joy;anger
+Развлекайся!;joy;anger
+Она окрысилась?;anger;surprise
+Она воодушевилась.;joy;joy
+Удовлетворяйся?;joy;joy
+Насмехайся!;joy;joy
+Она поникла.;sadness;anger
+Не помрачи.;joy;sadness
+Не опечаль?;surprise;anger
+Она не опостылела.;joy;sadness
+Предвкушай?;joy;surprise
+Она не посмеивалась?;surprise;surprise
+Освежи.;joy;surprise
+Она прогневалась.;anger;anger
+Она возмутилась.;anger;anger
+Она не испугала.;joy;fear
+Наскучивай?;surprise;surprise
+Она трепетала.;fear;sadness
+Она не прослезилась!;surprise;sadness
+Она раздражила!;anger;anger
+Она сторонилась!;fear;joy
+Не забойся?;surprise;anger
+Не рыдай?;surprise;anger
+Она побоялась.;fear;anger
+Она не истерзалась!;joy;anger
+Наслаждайся?;joy;joy
+Она не затравила?;surprise;surprise
+Она не обожала!;sadness;joy
+Она огорчалась!;sadness;sadness
+Она не убоялась.;joy;anger
+Она не обеспокоила.;joy;sadness
+Не наскучивай.;anger;anger
+Она заскучала!;sadness;joy
+Оживи?;surprise;surprise
+Она не интересовалась!;sadness;surprise
+Она затосковала.;sadness;sadness
+Не потоскуй!;joy;anger
+Она разозлилась!;anger;anger
+Тревожь!;fear;fear
+Она переболела?;surprise;sadness
+Она не покаялась!;anger;sadness
+Она не оживила?;surprise;surprise
+Она не трусила?;surprise;anger
+Она не нарадовалась?;surprise;anger
+Не хихикай.;sadness;anger
+Она улыбнулась!;joy;joy
+Погорюй.;sadness;anger
+Она жалела.;sadness;sadness
+Она озлобляла!;anger;anger
+Не тяготи!;anger;anger
+Она не взорвалась!;anger;surprise
+Она промаялась.;sadness;sadness
+Она не удивила?;surprise;surprise
+Разочаруйся?;sadness;anger
+Она перевернула?;surprise;surprise
+Она не интересовалась?;surprise;surprise
+Она не убила?;surprise;anger
+Она не резвилась!;sadness;anger
+Она не воодушевилась?;sadness;surprise
+Она не насытилась!;anger;anger
+Она омрачила.;sadness;sadness
+Не развлекайся?;surprise;surprise
+Освещай?;surprise;sadness
+Невзлюби?;anger;anger
+Не погорюй?;surprise;surprise
+Не пошути!;sadness;anger
+Она рассмеялась?;joy;joy
+Она напугала?;fear;fear
+Она не содрогалась?;surprise;surprise
+Дави!;anger;surprise
+Омрачи?;sadness;surprise
+Она не злобствовала!;joy;anger
+Она перетрусила!;fear;anger
+Озли.;anger;surprise
+Волнуй.;fear;anger
+Она не поднимала!;anger;anger
+Она устыдилась!;anger;joy
+Паникуй!;fear;anger
+Она не насытилась?;surprise;surprise
+Негодуй.;anger;anger
+Она не изматывала?;surprise;surprise
+Она не развлекла.;sadness;joy
+Не горюй?;joy;anger
+Не тоскуй!;joy;anger
+Она не восхитила.;sadness;joy
+Она окрылила.;joy;anger
+Помрачай?;sadness;joy
+Она не тряслась!;joy;fear
+Она переболела!;joy;sadness
+Она не сожалела.;joy;sadness
+Она поражала?;surprise;surprise
+Она не ранила.;joy;sadness
+Она не отчаивалась.;joy;sadness
+Она удовлетворялась?;joy;surprise
+Она осточертела.;anger;anger
+Она не приободрялась.;sadness;sadness
+Не позли?;surprise;surprise
+Удовлетворяй!;joy;joy
+Она не рассмеялась.;sadness;joy
+Посетуй.;sadness;joy
+Не обожай!;anger;joy
+Она смеялась!;joy;joy
+Она позлилась?;anger;surprise
+Не огорчи?;surprise;sadness
+Она не разозлилась.;joy;anger
+Она оживила!;joy;joy
+Опечалься?;sadness;surprise
+Освежи!;joy;surprise
+Не растревоживай.;fear;anger
+Она фыркала!;anger;anger
+Она не сосала?;surprise;surprise
+Она фыркала.;anger;anger
+Она не потрясала.;sadness;joy
+Не наскучь?;surprise;anger
+Она гневалась.;anger;anger
+Она не прогневалась?;fear;anger
+Не поплачь?;surprise;anger
+Не тушуйся?;joy;anger
+Не взбесись?;surprise;anger
+Она не натерпелась?;anger;surprise
+Побойся.;fear;anger
+Не подступай!;anger;anger
+Она хлебнула?;surprise;surprise
+Она маялась!;sadness;joy
+Отчайся.;sadness;anger
+Она подбодрилась?;joy;anger
+Не возрыдай!;joy;anger
+Не хандри.;joy;anger
+Выматывай?;sadness;anger
+Не дрейфи?;surprise;surprise
+Не встревожь?;surprise;fear
+Она не льстила?;surprise;anger
+Она не взвыла.;joy;anger
+Она поразилась.;surprise;surprise
+Заскучай?;sadness;surprise
+Не захватывай!;anger;anger
+Она освежила!;joy;joy
+Она терпела?;surprise;sadness
+Отчаивайся.;sadness;sadness
+Не взвой.;anger;anger
+Не томись.;joy;sadness
+Она возмущалась.;anger;anger
+Не разгневай.;fear;anger
+Изумляй!;surprise;joy
+Не переутомляй!;anger;anger
+Насладись?;joy;joy
+Не балдей.;sadness;joy
+Не струси.;joy;anger
+Она конфузилась.;fear;anger
+Не изводись.;joy;anger
+Она не устрашала?;surprise;surprise
+Она не льстила!;anger;anger
+Она подружилась.;joy;joy
+Она воскресла?;surprise;surprise
+Она хандрила.;sadness;anger
+Она поразилась!;surprise;surprise
+Не ярись!;fear;anger
+Она окрылилась!;joy;anger
+Она злорадствовала.;anger;anger
+Она развеселила.;joy;sadness
+Она не казнилась.;joy;sadness
+Она не рассмешила?;surprise;joy
+Сокруши!;anger;anger
+Не помрачи?;surprise;anger
+Она измотала!;anger;surprise
+Оплакивай?;sadness;surprise
+Изнемоги?;sadness;surprise
+Она не сломилась!;joy;anger
+Не возмути.;joy;anger
+Она не порадовала!;sadness;joy
+Она не удивилась.;sadness;surprise
+Посмейся?;joy;surprise
+Не огорчись?;surprise;sadness
+Не плавай!;anger;joy
+Она взбодрилась!;joy;anger
+Она не изнурила?;surprise;anger
+Она пьянела?;surprise;anger
+Не перепугай!;anger;anger
+Дрейфи.;fear;anger
+Она не истерзалась?;surprise;anger
+Она не томилась?;joy;surprise
+Она приунывала?;sadness;surprise
+Она удивлялась!;surprise;surprise
+Она приободрилась.;joy;joy
+Напугай?;fear;surprise
+Не досадуй!;joy;anger
+Она озлобила?;anger;anger
+Она недоумевала!;surprise;surprise
+Не опечаль.;joy;anger
+Она разъярилась?;anger;surprise
+Льсти!;joy;anger
+Восхити!;joy;surprise
+Она посмеивалась!;joy;joy
+Озлобься?;anger;anger
+Она рассердила!;anger;anger
+Она загрустила!;sadness;joy
+Не развеселись.;sadness;sadness
+Обалдей?;surprise;surprise
+Не истерзайся!;anger;anger
+Она намучилась.;sadness;sadness
+Печаль?;sadness;sadness
+Поражай.;surprise;joy
+Не ободрись.;sadness;anger
+Она поверила!;surprise;surprise
+Изматывай.;sadness;anger
+Она не тушевалась.;joy;sadness
+Перенервничай!;fear;anger
+Подави!;anger;joy
+Побаивайся?;fear;anger
+Злобься?;anger;anger
+Переверни!;anger;anger
+Она расцветала.;joy;joy
+Раздразни.;joy;anger
+Не радуйся.;sadness;joy
+Не замучивайся!;joy;anger
+Не угрюмей?;surprise;anger
+Не устрашись?;surprise;surprise
+Она поплакала!;sadness;joy
+Взвой!;sadness;anger
+Ошеломи?;surprise;surprise
+Она замучилась.;sadness;anger
+Она изнурила.;sadness;sadness
+Не нервируй!;anger;anger
+Она нервировала?;fear;surprise
+Она изумляла!;fear;surprise
+Не отчаивайся.;joy;sadness
+Она не отчаялась.;joy;sadness
+Не тужи.;joy;anger
+Она раздражила.;anger;anger
+Не освежись?;surprise;surprise
+Не прослезись?;surprise;anger
+Она не смущалась.;joy;sadness
+Она насмехалась.;joy;joy
+Она торжествовала?;joy;surprise
+Не ободрись?;sadness;anger
+Она не воскресла!;sadness;sadness
+Она не подружилась?;surprise;surprise
+Разобидься!;anger;anger
+Не возрадуйся!;sadness;anger
+Она не бесилась?;surprise;anger
+Она не огорчалась.;joy;sadness
+Взбеленись.;anger;anger
+Струси.;fear;anger
+Не разнервничайся?;surprise;anger
+Озлобься.;anger;sadness
+Раздражайся.;anger;anger
+Не серди!;fear;anger
+Она запугивала?;fear;anger
+Она радовалась?;joy;joy
+Она взбесила?;anger;anger
+Не встревожь!;anger;fear
+Она не пугалась?;surprise;fear
+Не стращай?;surprise;anger
+Она не угнетала!;anger;anger
+Не унывай!;joy;sadness
+Не удовлетворяй.;sadness;anger
+Не домучься!;anger;anger
+Раздражи!;anger;anger
+Она стеснялась?;surprise;surprise
+Она не огорчила.;joy;sadness
+Она не развлекала?;surprise;surprise
+Не сникай!;joy;anger
+Не изнемогай.;joy;anger
+Сожалей.;sadness;anger
+Не расцвети?;surprise;surprise
+Восторгай?;joy;surprise
+Она не раздражила!;anger;anger
+Не негодуй!;anger;anger
+Не ужаснись.;joy;fear
+Не повеселись.;sadness;joy
+Воскрешай!;joy;anger
+Леденей!;anger;joy
+Не посмеивайся!;sadness;joy
+Не печалься?;surprise;sadness
+Она вытерпела!;joy;anger
+Не интересуйся.;sadness;surprise
+Она ликовала.;joy;joy
+Смущайся!;fear;sadness
+Сконфузься?;fear;sadness
+Не злобься!;anger;anger
+Она убивала.;anger;anger
+Она развлекла?;surprise;joy
+Она не огорчала!;joy;sadness
+Угнетай?;surprise;surprise
+Не беспокойся!;joy;sadness
+Она ужаснулась?;fear;fear
+Не помрачись.;joy;sadness
+Поразись!;joy;anger
+Не злобствуй!;anger;anger
+Восторгай!;joy;joy
+Она прискучила?;surprise;surprise
+Она не беспокоила?;surprise;fear
+Она испугала!;fear;fear
+Она не сникала!;joy;anger
+Она не удовлетворилась!;sadness;anger
+Не переболей.;anger;sadness
+Порази!;surprise;anger
+Она не утомилась!;anger;sadness
+Она воспрянула?;joy;anger
+Она не возмутилась!;anger;anger
+Не сердись.;joy;anger
+Воодушевись!;joy;joy
+Не развлеки?;surprise;surprise
+Она не прослезилась.;joy;sadness
+Она не любовалась.;sadness;sadness
+Она наскучивала!;anger;anger
+Она не омрачала.;joy;sadness
+Она не устрашилась.;joy;sadness
+Утомись?;surprise;surprise
+Подшучивай.;joy;joy
+Перетрусь!;fear;joy
+Поникни?;sadness;surprise
+Она не разгневала!;joy;anger
+Она дрейфила?;fear;anger
+Не обижайся.;joy;anger
+Она не удовлетворяла.;sadness;sadness
+Она не радовала?;sadness;joy
+Она истомилась.;sadness;sadness
+Она угнетала!;sadness;anger
+Приунывай?;sadness;surprise
+Не терзайся.;joy;anger
+Она не уважала?;surprise;surprise
+Не удовольствуйся.;sadness;joy
+Она не удовлетворилась?;surprise;surprise
+Обижайся!;sadness;anger
+Осточертей.;anger;anger
+Она не развлекалась!;sadness;joy
+Погрусти?;sadness;anger
+Не упивайся!;anger;anger
+Она унывала.;sadness;sadness
+Она приуныла!;sadness;anger
+Она не взбодрилась?;sadness;anger
+Она сокрушалась!;sadness;anger
+Она не улыбнулась!;sadness;joy
+Не фыркай!;anger;anger
+Она потрясала?;surprise;surprise
+Не испугайся!;anger;fear
+Не воспрянь.;sadness;anger
+Она ужасалась.;fear;fear
+Она обеспокоилась.;fear;joy
+Не беси?;surprise;anger
+Она встряхнулась.;joy;sadness
+Она намыкалась.;anger;sadness
+Не изумись!;anger;surprise
+Не тревожься.;joy;fear
+Не окрыли!;anger;anger
+Не печалься.;joy;sadness
+Она поднимала?;surprise;surprise
+Она тревожилась!;fear;fear
+Она удручала.;sadness;sadness
+Она раздосадовалась?;sadness;anger
+Она содрогалась?;surprise;surprise
+Недоумевай.;surprise;anger
+Она затравила?;surprise;surprise
+Она позлилась.;anger;sadness
+Истомись!;sadness;joy
+Она поражалась?;surprise;surprise
+Она не загрустила!;joy;anger
+Мучь?;sadness;surprise
+Она не освежила?;surprise;surprise
+Она не подивила!;anger;surprise
+Не страши!;anger;fear
+Измайся.;sadness;sadness
+Поплачь.;sadness;sadness
+Она не переболела.;sadness;sadness
+Не взбелени!;anger;anger
+Она не подбодрилась!;sadness;anger
+Не разобидься.;anger;anger
+Она не фыркала!;anger;anger
+Не рассмейся?;surprise;joy
+Не беспокой?;surprise;fear
+Она не надулась!;joy;surprise
+Она унывала?;sadness;sadness
+Не хмурься!;joy;anger
+Она изнемогала!;sadness;anger
+Не жалей!;joy;sadness
+Она проклинала!;anger;anger
+Она устрашала.;fear;sadness
+Она не точила?;surprise;surprise
+Она не разъярила!;anger;anger
+Позли!;anger;anger
+Не натерпись?;surprise;surprise
+Не вдохновляйся.;sadness;joy
+Не радуйся!;sadness;joy
+Освежись!;joy;surprise
+Труси!;fear;anger
+Устрашайся?;fear;anger
+Опечаливай.;sadness;anger
+Она взгрустнула?;sadness;surprise
+Не воодушевись?;surprise;surprise
+Погрусти!;sadness;anger
+Она не испугала!;joy;fear
+Она не встревожила?;surprise;fear
+Она замучивалась.;sadness;anger
+Переутоми?;surprise;anger
+Она восхищала!;joy;joy
+Она не возрадовалась?;sadness;surprise
+Не опупей.;anger;anger
+Не улыбнись?;surprise;joy
+Светись?;surprise;surprise
+Убойся?;fear;surprise
+Она цвела.;joy;anger
+Не насладись.;sadness;joy
+Не улыбнись!;sadness;joy
+Не смейся!;anger;anger
+Она не раздражилась?;fear;anger
+Презирай!;anger;joy
+Она взорвалась.;anger;fear
+Проклинай.;anger;anger
+Не восторгайся!;sadness;joy
+Она не страдала.;joy;sadness
+Она скисла!;sadness;joy
+Наскучь?;surprise;surprise
+Она не хмурилась?;surprise;anger
+Она не захандрила!;joy;anger
+Не хандри!;joy;anger
+Беспокой.;fear;sadness
+Подбодрись?;joy;anger
+Она огорчилась.;sadness;sadness
+Не недоумевай?;anger;surprise
+Возмути!;anger;surprise
+Она расстроила!;sadness;sadness
+Она сосала!;surprise;anger
+Она расстроила?;sadness;sadness
+Она струсила.;fear;anger
+Улыбайся?;joy;joy
+Она не перепугалась!;joy;anger
+Разгневайся.;anger;anger
+Не светись!;sadness;surprise
+Не предвкушай!;anger;joy
+Она скисала.;sadness;sadness
+Она дулась?;sadness;anger
+Не шантажируй?;surprise;anger
+Она обозлила!;anger;anger
+Злобствуй?;anger;anger
+Она прослезилась.;sadness;sadness
+Она не порадовалась!;anger;joy
+Не переболей?;anger;anger
+Злобься!;anger;anger
+Грусти?;sadness;sadness
+Она не хихикала!;sadness;anger
+Ужасни?;fear;fear
+Она сникла?;sadness;surprise
+Она обожглась!;fear;joy
+Она не подивилась!;surprise;surprise
+Она настрадалась?;sadness;surprise
+Она измучилась.;sadness;sadness
+Убивайся.;sadness;anger
+Не радуй?;sadness;joy
+Не злобься?;surprise;anger
+Не ненавидь?;sadness;anger
+Она сдрейфила!;fear;anger
+Она изумлялась.;surprise;surprise
+Она не удовлетворилась.;sadness;sadness
+Она омрачалась!;sadness;sadness
+Не подшучивай?;surprise;surprise
+Побойся?;fear;surprise
+Она не удивляла?;surprise;surprise
+Она не струхнула!;joy;anger
+Она не расстраивала?;surprise;surprise
+Не освежись!;sadness;joy
+Она не заскучала?;surprise;surprise
+Она переутомляла!;anger;anger
+Не надоешь!;surprise;anger
+Сломи!;anger;anger
+Не испугай?;surprise;fear
+Она изнывала.;sadness;surprise
+Она намыкалась!;anger;anger
+Не веселись!;sadness;joy
+Она не погрустила?;sadness;surprise
+Не воодушевись!;sadness;joy
+Веселись!;joy;joy
+Переутомляй.;sadness;anger
+Разозли?;anger;surprise
+Она не сдрейфила?;surprise;anger
+Сокруши.;anger;anger
+Не утомись.;joy;sadness
+Она не помрачалась.;joy;sadness
+Она не сникла!;joy;anger
+Не возликуй!;sadness;anger
+Выматывай!;anger;anger
+Она не озлобилась?;fear;anger
+Опупей!;surprise;anger
+Плачь?;sadness;sadness
+Она не помрачалась?;surprise;surprise
+Не подружись!;anger;joy
+Не услаждайся.;sadness;anger
+Она поразила!;surprise;surprise
+Она соскучилась!;sadness;sadness
+Не измочаливай!;anger;anger
+Она проплакала?;sadness;anger
+Дуйся?;surprise;anger
+Она замучивалась!;sadness;anger
+Встряхнись.;joy;anger
+Не омрачайся.;joy;sadness
+Она не домучилась?;anger;surprise
+Помучься?;sadness;surprise
+Она не отчаивалась?;joy;sadness
+Она бесила.;anger;anger
+Улыбнись.;joy;joy
+Серчай.;anger;joy
+Не развеселись!;sadness;anger
+Она убоялась!;fear;anger
+Она не подступала?;fear;surprise
+Она не сердила?;surprise;anger
+Ненавидь!;anger;anger
+Не оживи?;surprise;surprise
+Она смущала.;fear;sadness
+Она отпугивала!;fear;fear
+Она не опостылела!;anger;anger
+Она не опечалилась?;sadness;surprise
+Не воскреси?;surprise;surprise
+Не покайся?;surprise;anger
+Она страшила.;fear;fear
+Она взволновала!;joy;surprise
+Она освежалась!;joy;joy
+Она не надулась?;surprise;surprise
+Не развлекись!;anger;joy
+Она не понравилась.;sadness;joy
+Она хмурилась!;anger;sadness
+Тоскуй.;sadness;anger
+Она не воодушевилась!;sadness;joy
+Она не ужаснула!;joy;fear
+Она ярилась!;anger;joy
+Она не расцвела.;sadness;anger
+Она хихикала!;joy;anger
+Она удручила?;sadness;surprise
+Умаивай!;sadness;anger
+Невзлюби.;anger;anger
+Она удивлялась?;surprise;surprise
+Она повеселилась!;joy;joy
+Она изумилась!;surprise;joy
+Она не обрадовалась.;sadness;joy
+Она беспокоилась!;fear;fear
+Помучься!;anger;joy
+Она изнемогала.;sadness;sadness
+Не расстраивай.;sadness;sadness
+Она возненавидела?;fear;surprise
+Не разволнуй?;surprise;anger
+Она потрясала.;surprise;joy
+Она прискучивала!;sadness;anger
+Она не побаивалась.;joy;sadness
+Не затоскуй?;joy;surprise
+Оживи!;joy;surprise
+Она не насыщалась.;anger;sadness
+Она не забоялась!;joy;anger
+Она вымотала.;sadness;anger
+Она порадовала?;joy;joy
+Она страшилась!;fear;fear
+Не радуйся?;sadness;joy
+Стесняйся.;fear;anger
+Она шантажировала!;fear;anger
+Не взбеси!;anger;anger
+Она прискучивала.;sadness;sadness
+Она не веселилась.;sadness;joy
+Сникни!;sadness;anger
+Не переволнуйся!;anger;anger
+Она не пошутила.;sadness;anger
+Она не озлилась?;fear;surprise
+Не восхищайся.;sadness;joy
+Не скорби.;joy;sadness
+Она возмутилась?;surprise;anger
+Она не гнела!;anger;anger
+Она изнемогала?;sadness;surprise
+Она рассердилась!;anger;anger
+Не выстрадай?;surprise;surprise
+Встряхнись!;joy;anger
+Фыркай?;surprise;surprise
+Порадуй!;joy;joy
+Она надивилась!;surprise;anger
+Смущайся.;fear;sadness
+Она перетерпела.;sadness;anger
+Не терпи?;anger;anger
+Она веселила?;joy;joy
+Не порадуй?;sadness;surprise
+Она разочаровалась?;sadness;sadness
+Изведись?;sadness;surprise
+Она перетрусила.;fear;anger
+Сдрейфи.;fear;anger
+Она не повеселела!;sadness;joy
+Разнервничайся!;fear;anger
+Не насладись?;sadness;surprise
+Ликуй.;joy;anger
+Она не беспокоила!;anger;fear
+Не оживи!;anger;joy
+Она не разозлила!;anger;anger
+Не забеспокойся?;surprise;anger
+Она изматывала.;sadness;anger
+Не разъярись.;fear;anger
+Не горюй.;joy;sadness
+Шантажируй!;anger;anger
+Пригорюнься?;sadness;surprise
+Она не процветала.;sadness;sadness
+Вымотай?;surprise;surprise
+Она не улыбалась.;sadness;joy
+Не взволнуй?;surprise;anger
+Она казнилась.;sadness;sadness
+Сконфузься!;fear;sadness
+Не порадуйся?;surprise;joy
+Не скисай!;joy;anger
+Не угнетай!;anger;anger
+Не остолбеней.;anger;anger
+Не намучься!;anger;anger
+Не перепугай?;surprise;anger
+Не огорчись.;joy;sadness
+Она не надивилась?;surprise;surprise
+Она не рассмешила!;sadness;joy
+Она не давила?;surprise;surprise
+Не обидь!;anger;anger
+Она не балдела?;sadness;anger
+Она фыркала?;joy;anger
+Не воскреси!;fear;sadness
+Поощряй.;joy;anger
+Смущай!;joy;sadness
+Бесись.;anger;sadness
+Обидься!;sadness;anger
+Не мечтай?;anger;surprise
+Раздражи?;anger;anger
+Не рассердись?;surprise;anger
+Выматывай.;sadness;anger
+Изнервничайся!;fear;anger
+Жги?;joy;surprise
+Не истерзайся?;surprise;anger
+Обалдей.;surprise;joy
+Она не обрадовала?;sadness;joy
+Она не измочалила.;sadness;sadness
+Не удовлетворяйся!;sadness;anger
+Восхищай!;joy;sadness
+Она топала!;anger;joy
+Она раздавила!;joy;anger
+Она не замучилась?;sadness;anger
+Она не взбесилась!;anger;anger
+Не возненавидь.;joy;anger
+Обрадуйся!;joy;joy
+Не огорчай!;joy;sadness
+Она развлекала.;joy;joy
+Не скисни!;joy;anger
+Она не опупела!;anger;anger
+Зли.;joy;anger
+Не смейся?;surprise;anger
+Озлобляй!;anger;anger
+Она не прогневала?;surprise;anger
+Она раздразнивала!;joy;anger
+Захватывай!;joy;anger
+Она не струхнула?;surprise;anger
+Она встревожила?;fear;fear
+Смейся?;joy;joy
+Не разволнуй.;fear;anger
+Замучивайся!;sadness;anger
+Она поволновалась!;fear;anger
+Пугай.;fear;fear
+Она угрюмела.;sadness;sadness
+Она взорвалась!;surprise;fear
+Рассмеши.;joy;anger
+Она не стервенела?;surprise;anger
+Не сторонись?;surprise;surprise
+Она горевала?;sadness;sadness
+Процветай!;joy;joy
+Она не ошеломила!;anger;surprise
+Она рыдала!;sadness;anger
+Она хихикала.;joy;anger
+Злобствуй!;anger;anger
+Расцветай?;surprise;surprise
+Она не изнемогала.;joy;sadness
+Огорчай.;sadness;surprise
+Она дрейфила.;fear;sadness
+Покайся?;anger;anger
+Не омрачи.;joy;sadness
+Восхищай.;joy;sadness
+Злорадствуй?;anger;anger
+Не хлебни!;anger;anger
+Майся?;anger;surprise
+Не рыдай.;anger;anger
+Она не злорадствовала?;surprise;anger
+Затоскуй?;sadness;surprise
+Ободряйся.;joy;anger
+Она не натерпелась.;anger;sadness
+Злись?;anger;surprise
+Не ярись?;anger;surprise
+Возмутись?;anger;surprise
+Не омрачай!;anger;sadness
+Она не перевернула!;joy;anger
+Не изнервничайся.;anger;anger
+Она негодовала!;anger;surprise
+Озлобляй.;anger;anger
+Не истоскуйся!;joy;anger
+Она цвела?;surprise;surprise
+Не возрадуйся?;surprise;anger
+Она смущалась!;fear;sadness
